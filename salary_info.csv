@@ -1,0 +1,861 @@
+LEVEL,SECTOR,GLOBAL_BUSINESS,MEMBER_FIRM,GENDER,EDUCATION,HIRE_SOURCE,TOTAL_YOE,AVERAGE_SALARY,MEDIAN_SALARY,AVERAGE_AIP,MEDIAN_AIP
+Analyst,Commercial,Advisory,US,Female,Master's Degree (non-MBA),Campus hire,2,74700,74700,0,0
+Analyst,Commercial,Advisory,US,Male,Bachelors,Campus hire,0,77700,77700,4000,4000
+Analyst,Commercial,Advisory,US,Male,Bachelors,Campus hire,1,64300,64300,2000,2000
+Analyst,Commercial,Advisory,US,Male,Bachelors,Experienced hire,10,63100,63100,2000,2000
+Analyst,Commercial,Advisory,US,Prefer not to say,Bachelors,Campus hire,1,77900,77900,4000,4000
+Analyst,Commercial,Advisory,US,Prefer not to say,MBA,Campus hire,0,70500,70500,0,0
+Analyst,Commercial,Consulting,US,Female,Bachelors,Campus hire,0,84475,84100,2625,3250
+Analyst,Commercial,Consulting,US,Female,Bachelors,Campus hire,1,85183,84800,1500,1000
+Analyst,Commercial,Consulting,US,Female,Bachelors,Campus hire,2,81900,83400,1111,0
+Analyst,Commercial,Consulting,US,Female,Bachelors,Experienced hire,2,74000,74000,0,0
+Analyst,Commercial,Consulting,US,Female,Master's Degree (non-MBA),Campus hire,1,82000,82000,0,0
+Analyst,Commercial,Consulting,US,Female,Master's Degree (non-MBA),Experienced hire,3,89900,89900,5000,5000
+Analyst,Commercial,Consulting,US,Male,Bachelors,Campus hire,0,83930,84400,2320,2000
+Analyst,Commercial,Consulting,US,Male,Bachelors,Campus hire,1,85645,85000,2364,2000
+Analyst,Commercial,Consulting,US,Male,Bachelors,Campus hire,2,83400,83400,0,0
+Analyst,Commercial,Consulting,US,Male,Bachelors,Campus hire,3,74650,74650,3500,3500
+Analyst,Commercial,Consulting,US,Male,Bachelors,Campus hire,4,87600,87600,3000,3000
+Analyst,Commercial,Consulting,US,Prefer not to say,Bachelors,Campus hire,0,84600,84600,0,0
+Analyst,Commercial,Consulting,US,Prefer not to say,Bachelors,Campus hire,1,84200,84200,2000,2000
+Analyst,GPS,Advisory,US,Female,Bachelors,Campus hire,3,72300,72300,2000,2000
+Analyst,GPS,Advisory,US,Female,Master's Degree (non-MBA),Campus hire,5,62000,62000,0,0
+Analyst,GPS,Advisory,US,Male,Bachelors,Campus hire,1,75467,78200,2000,2000
+Analyst,GPS,Advisory,US,Male,Master's Degree (non-MBA),Campus hire,1,76550,76550,3000,3000
+Analyst,GPS,Advisory,US,Male,Master's Degree (non-MBA),Campus hire,2,80800,80800,4000,4000
+Analyst,GPS,Consulting,US,Female,Bachelors,Campus hire,0,76233,74200,1333,2000
+Analyst,GPS,Consulting,US,Female,Bachelors,Campus hire,1,78100,77750,1800,2000
+Analyst,GPS,Consulting,US,Female,Bachelors,Campus hire,2,76967,74200,1333,2000
+Analyst,GPS,Consulting,US,Female,Bachelors,Campus hire,4,80000,80000,2000,2000
+Analyst,GPS,Consulting,US,Male,Bachelors,Campus hire,0,72100,72100,0,0
+Analyst,GPS,Consulting,US,Male,Bachelors,Campus hire,1,78700,80600,1818,2000
+Analyst,GPS,Consulting,US,Male,Bachelors,Campus hire,2,78500,78000,2667,3000
+Analyst,GPS,Consulting,US,Male,Bachelors,Experienced hire,0,65000,65000,0,0
+Analyst,GPS,Consulting,US,Male,Bachelors,Experienced hire,1,88000,88000,1800,1800
+Analyst,GPS,Consulting,US,Male,Bachelors,Experienced hire,2,75900,75900,2000,2000
+Analyst,GPS,Consulting,US,Male,Bachelors,Experienced hire,3,77500,77500,2000,2000
+Analyst,GPS,Consulting,US,Male,Master's Degree (non-MBA),Campus hire,1,79100,77000,667,0
+Analyst,GPS,Consulting,US,Prefer not to say,Bachelors,Campus hire,0,82500,82500,0,0
+Analyst,GPS,Consulting,US,Prefer not to say,Bachelors,Campus hire,1,81550,81550,2000,2000
+Analyst,Not applicable,Audit,US,Female,Bachelors,Campus hire,2,65000,65000,5250,5250
+Consultant,Commercial,Advisory,US,Female,Bachelors,Campus hire,2,72900,72900,5000,5000
+Consultant,Commercial,Advisory,US,Male,Master's Degree (non-MBA),Campus hire,4,82200,82200,1250,1250
+Consultant,Commercial,Consulting,US,Female,Bachelors,Campus hire,0,98950,98950,0,0
+Consultant,Commercial,Consulting,US,Female,Bachelors,Campus hire,2,91892,90600,4229,5000
+Consultant,Commercial,Consulting,US,Female,Bachelors,Campus hire,3,96212,93200,12864,12300
+Consultant,Commercial,Consulting,US,Female,Bachelors,Campus hire,4,96530,96050,13820,13200
+Consultant,Commercial,Consulting,US,Female,Bachelors,Campus hire,6,114000,114000,12300,12300
+Consultant,Commercial,Consulting,US,Female,Bachelors,Experienced hire,2,97900,97900,5900,5900
+Consultant,Commercial,Consulting,US,Female,Bachelors,Experienced hire,3,97700,97700,5000,5000
+Consultant,Commercial,Consulting,US,Female,Bachelors,Experienced hire,4,107575,105750,10950,9600
+Consultant,Commercial,Consulting,US,Female,Bachelors,Experienced hire,5,90700,90700,5000,5000
+Consultant,Commercial,Consulting,US,Female,Bachelors,Experienced hire,7,105000,105000,0,0
+Consultant,Commercial,Consulting,US,Female,MBA,Campus hire,3,90000,90000,18000,18000
+Consultant,Commercial,Consulting,US,Female,Master's Degree (non-MBA),Campus hire,2,225433,91500,3500,4000
+Consultant,Commercial,Consulting,US,Female,Master's Degree (non-MBA),Campus hire,3,92000,92000,0,0
+Consultant,Commercial,Consulting,US,Female,Master's Degree (non-MBA),Campus hire,4,101533,101100,41900,16200
+Consultant,Commercial,Consulting,US,Female,Master's Degree (non-MBA),Experienced hire,4,100300,100300,3950,3950
+Consultant,Commercial,Consulting,US,Female,Master's Degree (non-MBA),Experienced hire,5,94300,94300,8500,8500
+Consultant,Commercial,Consulting,US,Female,Master's Degree (non-MBA),Experienced hire,6,93500,93500,4000,4000
+Consultant,Commercial,Consulting,US,Male,Bachelors,Campus hire,0,92600,92600,5000,5000
+Consultant,Commercial,Consulting,US,Male,Bachelors,Campus hire,2,90940,90200,3592,3000
+Consultant,Commercial,Consulting,US,Male,Bachelors,Campus hire,3,95881,93500,11704,11100
+Consultant,Commercial,Consulting,US,Male,Bachelors,Campus hire,4,96975,95000,15392,12300
+Consultant,Commercial,Consulting,US,Male,Bachelors,Experienced hire,1,92200,92200,5000,5000
+Consultant,Commercial,Consulting,US,Male,Bachelors,Experienced hire,3,104725,96400,6600,6700
+Consultant,Commercial,Consulting,US,Male,Bachelors,Experienced hire,4,102975,100400,8250,5950
+Consultant,Commercial,Consulting,US,Male,Bachelors,Experienced hire,5,103100,103100,4700,4700
+Consultant,Commercial,Consulting,US,Male,Bachelors,Experienced hire,6,100575,96050,8900,11650
+Consultant,Commercial,Consulting,US,Male,Bachelors,Experienced hire,7,114000,114000,6900,6900
+Consultant,Commercial,Consulting,US,Male,Bachelors,Experienced hire,9,109700,109700,11000,11000
+Consultant,Commercial,Consulting,US,Male,MBA,Campus hire,6,111000,111000,6900,6900
+Consultant,Commercial,Consulting,US,Male,MBA,Experienced hire,3,72000,72000,0,0
+Consultant,Commercial,Consulting,US,Male,MBA,Experienced hire,10,127800,127800,12300,12300
+Consultant,Commercial,Consulting,US,Male,Master's Degree (non-MBA),Campus hire,0,92400,92400,3000,3000
+Consultant,Commercial,Consulting,US,Male,Master's Degree (non-MBA),Campus hire,2,92200,92400,3686,3000
+Consultant,Commercial,Consulting,US,Male,Master's Degree (non-MBA),Campus hire,4,100500,99950,11250,11000
+Consultant,Commercial,Consulting,US,Male,Master's Degree (non-MBA),Campus hire,5,112900,112900,14000,14000
+Consultant,Commercial,Consulting,US,Male,Master's Degree (non-MBA),Campus hire,6,105400,105400,9700,9700
+Consultant,Commercial,Consulting,US,Male,Master's Degree (non-MBA),Experienced hire,4,122767,127200,10333,6900
+Consultant,Commercial,Consulting,US,Male,Master's Degree (non-MBA),Experienced hire,6,111750,111750,4950,4950
+Consultant,Commercial,Consulting,US,Male,Master's Degree (non-MBA),Experienced hire,7,100000,100000,6900,6900
+Consultant,Commercial,Consulting,US,Male,Master's Degree (non-MBA),Experienced hire,8,121000,121000,0,0
+Consultant,Commercial,Consulting,US,Prefer not to say,Bachelors,Campus hire,2,91860,90600,3200,3000
+Consultant,Commercial,Consulting,US,Prefer not to say,Bachelors,Campus hire,3,86850,86850,8350,8350
+Consultant,Commercial,Consulting,US,Prefer not to say,Bachelors,Campus hire,4,100300,100300,12300,12300
+Consultant,Commercial,Consulting,US,Prefer not to say,Bachelors,Experienced hire,4,115000,115000,5600,5600
+Consultant,Commercial,Consulting,US,Prefer not to say,Bachelors,Experienced hire,9,98500,98500,0,0
+Consultant,Commercial,Consulting,US,Prefer not to say,Master's Degree (non-MBA),Experienced hire,2,91000,91000,7000,7000
+Consultant,Commercial,Enabling Areas,US,Male,Bachelors,Experienced hire,4,67000,67000,3600,3600
+Consultant,Commercial,Services,US,Female,Bachelors,Campus hire,2,67000,67000,3000,3000
+Consultant,GPS,Advisory,US,Female,Bachelors,Campus hire,2,76150,76150,1500,1500
+Consultant,GPS,Advisory,US,Female,Master's Degree (non-MBA),Experienced hire,4,73000,73000,5000,5000
+Consultant,GPS,Advisory,US,Male,Master's Degree (non-MBA),Campus hire,3,82400,82400,0,0
+Consultant,GPS,Advisory,US,Male,Master's Degree (non-MBA),Campus hire,10,64000,64000,0,0
+Consultant,GPS,Advisory,US,Male,Master's Degree (non-MBA),Experienced hire,10,78300,78300,5000,5000
+Consultant,GPS,Consulting,US,Female,Bachelors,Campus hire,2,84059,85500,3819,3000
+Consultant,GPS,Consulting,US,Female,Bachelors,Campus hire,3,86402,85800,10719,12300
+Consultant,GPS,Consulting,US,Female,Bachelors,Campus hire,4,88667,86500,7289,6900
+Consultant,GPS,Consulting,US,Female,Bachelors,Campus hire,5,94400,94400,18000,18000
+Consultant,GPS,Consulting,US,Female,Bachelors,Experienced hire,1,96300,96300,6900,6900
+Consultant,GPS,Consulting,US,Female,Bachelors,Experienced hire,2,76500,76500,1250,1250
+Consultant,GPS,Consulting,US,Female,Bachelors,Experienced hire,3,106750,106750,11600,11600
+Consultant,GPS,Consulting,US,Female,Bachelors,Experienced hire,4,88020,86300,6480,6900
+Consultant,GPS,Consulting,US,Female,Bachelors,Experienced hire,5,94160,89000,9400,6900
+Consultant,GPS,Consulting,US,Female,Bachelors,Experienced hire,7,104700,104700,6900,6900
+Consultant,GPS,Consulting,US,Female,Bachelors,Experienced hire,9,80700,80700,5000,5000
+Consultant,GPS,Consulting,US,Female,Master's Degree (non-MBA),Campus hire,2,95500,95500,12700,12700
+Consultant,GPS,Consulting,US,Female,Master's Degree (non-MBA),Campus hire,4,92350,92350,12800,12800
+Consultant,GPS,Consulting,US,Female,Master's Degree (non-MBA),Campus hire,5,89800,89800,12300,12300
+Consultant,GPS,Consulting,US,Female,Master's Degree (non-MBA),Campus hire,7,90000,90000,14900,14900
+Consultant,GPS,Consulting,US,Female,Master's Degree (non-MBA),Experienced hire,2,91500,91500,2500,2500
+Consultant,GPS,Consulting,US,Female,Master's Degree (non-MBA),Experienced hire,4,91220,91000,9260,6900
+Consultant,GPS,Consulting,US,Female,Master's Degree (non-MBA),Experienced hire,6,85833,85400,34467,12300
+Consultant,GPS,Consulting,US,Female,Master's Degree (non-MBA),Experienced hire,7,91600,91600,4900,4900
+Consultant,GPS,Consulting,US,Male,Bachelors,Campus hire,0,83100,83100,6900,6900
+Consultant,GPS,Consulting,US,Male,Bachelors,Campus hire,2,82741,83600,2652,3000
+Consultant,GPS,Consulting,US,Male,Bachelors,Campus hire,3,85924,84400,9500,12300
+Consultant,GPS,Consulting,US,Male,Bachelors,Campus hire,4,88875,88350,9175,8750
+Consultant,GPS,Consulting,US,Male,Bachelors,Campus hire,6,80000,80000,9000,9000
+Consultant,GPS,Consulting,US,Male,Bachelors,Experienced hire,1,90600,90600,6900,6900
+Consultant,GPS,Consulting,US,Male,Bachelors,Experienced hire,2,91667,90000,5367,5200
+Consultant,GPS,Consulting,US,Male,Bachelors,Experienced hire,3,102350,102350,11750,11750
+Consultant,GPS,Consulting,US,Male,Bachelors,Experienced hire,4,91569,92050,9500,6900
+Consultant,GPS,Consulting,US,Male,Bachelors,Experienced hire,5,89000,89000,6900,6900
+Consultant,GPS,Consulting,US,Male,Bachelors,Experienced hire,6,99967,97700,5000,4000
+Consultant,GPS,Consulting,US,Male,Bachelors,Experienced hire,7,89950,89950,12450,12450
+Consultant,GPS,Consulting,US,Male,Bachelors,Experienced hire,12,102800,102800,8100,8100
+Consultant,GPS,Consulting,US,Male,Doctorate,Campus hire,1,87900,87900,6300,6300
+Consultant,GPS,Consulting,US,Male,MBA,Campus hire,6,79300,79300,4000,4000
+Consultant,GPS,Consulting,US,Male,Master's Degree (non-MBA),Campus hire,2,87567,89400,2500,0
+Consultant,GPS,Consulting,US,Male,Master's Degree (non-MBA),Campus hire,3,90400,90400,15300,15300
+Consultant,GPS,Consulting,US,Male,Master's Degree (non-MBA),Campus hire,4,91300,91300,8400,8400
+Consultant,GPS,Consulting,US,Male,Master's Degree (non-MBA),Experienced hire,2,89000,89000,6900,6900
+Consultant,GPS,Consulting,US,Male,Master's Degree (non-MBA),Experienced hire,3,102700,102700,2300,2300
+Consultant,GPS,Consulting,US,Male,Master's Degree (non-MBA),Experienced hire,4,94075,88150,6450,6750
+Consultant,GPS,Consulting,US,Male,Master's Degree (non-MBA),Experienced hire,6,101700,101700,4950,4950
+Consultant,GPS,Consulting,US,Male,Master's Degree (non-MBA),Experienced hire,10,94700,94700,12000,12000
+Consultant,GPS,Consulting,US,Non-conforming/non-binary,Bachelors,Campus hire,2,78000,78000,83000,83000
+Consultant,GPS,Consulting,US,Prefer not to say,Bachelors,Campus hire,2,80000,80000,5000,5000
+Consultant,GPS,Consulting,US,Prefer not to say,Bachelors,Campus hire,4,98000,98000,14000,14000
+Consultant,GPS,Consulting,US,Prefer not to say,Bachelors,Campus hire,5,78700,78700,11000,11000
+Consultant,GPS,Consulting,US,Prefer not to say,Bachelors,Experienced hire,3,99900,99900,5700,5700
+Consultant,GPS,Consulting,US,Prefer not to say,Bachelors,Experienced hire,4,93700,93700,20500,20500
+Consultant,GPS,Consulting,US,Prefer not to say,Bachelors,Experienced hire,5,91300,91300,12300,12300
+Consultant,GPS,Consulting,US,Prefer not to say,Master's Degree (non-MBA),Campus hire,4,100000,100000,3000,3000
+Consultant,GPS,Consulting,US,Prefer not to say,Master's Degree (non-MBA),Campus hire,6,82500,82500,6900,6900
+Consultant,GPS,Services,US,Female,Master's Degree (non-MBA),Experienced hire,4,70000,70000,2750,2750
+Consultant,Not applicable,Consulting,Canada,Male,Bachelors,Campus hire,1,52860,52860,0,0
+Consultant,Not applicable,Consulting,US,Female,Bachelors,Campus hire,4,80600,80600,8500,8500
+Consultant,Not applicable,Consulting,US,Female,Bachelors,Experienced hire,4,97700,97700,5000,5000
+Consultant,Not applicable,Consulting,US,Male,Bachelors,Campus hire,2,87600,87600,5000,5000
+Consultant,Not applicable,Consulting,US,Male,Bachelors,Experienced hire,5,127200,127200,12300,12300
+Consultant,Not applicable,Services,US,Female,Bachelors,Campus hire,2,67100,67100,1000,1000
+Consultant,Not applicable,Services,US,Male,Bachelors,Campus hire,2,63700,63700,1000,1000
+Director,Commercial,Advisory,US,Male,Bachelors,Experienced hire,15,260000,260000,45000,45000
+Director,Commercial,Consulting,US,Male,MBA,Experienced hire,3,235000,235000,90000,90000
+Director,Commercial,Consulting,US,Male,Master's Degree (non-MBA),Experienced hire,20,240000,240000,120000,120000
+Director,Commercial,Consulting,US,Prefer not to say,Master's Degree (non-MBA),Experienced hire,20,675000,675000,111000,111000
+Director,Not applicable,Deloitte Global (DTTL),US,Female,Bachelors,Experienced hire,22,200000,200000,30000,30000
+Manager,Commercial,Advisory,US,Female,Bachelors,Experienced hire,8,103000,103000,10000,10000
+Manager,Commercial,Advisory,US,Female,Master's Degree (non-MBA),Campus hire,4,109670,109670,6500,6500
+Manager,Commercial,Advisory,US,Female,Master's Degree (non-MBA),Campus hire,7,131000,131000,25900,25900
+Manager,Commercial,Advisory,US,Female,Master's Degree (non-MBA),Campus hire,8,131615,131615,11700,11700
+Manager,Commercial,Advisory,US,Female,Master's Degree (non-MBA),Experienced hire,3,100000,100000,17000,17000
+Manager,Commercial,Advisory,US,Female,Master's Degree (non-MBA),Experienced hire,11,133000,133000,32000,32000
+Manager,Commercial,Advisory,US,Male,Bachelors,Campus hire,5,135000,135000,30000,30000
+Manager,Commercial,Advisory,US,Male,Bachelors,Experienced hire,10,143900,143900,7000,7000
+Manager,Commercial,Advisory,US,Male,Bachelors,Experienced hire,20,144000,144000,30000,30000
+Manager,Commercial,Advisory,US,Male,MBA,Campus hire,7,165000,165000,20000,20000
+Manager,Commercial,Advisory,US,Male,Master's Degree (non-MBA),Campus hire,6,120750,120750,17000,17000
+Manager,Commercial,Advisory,US,Male,Master's Degree (non-MBA),Campus hire,8,107000,107000,13000,13000
+Manager,Commercial,Advisory,US,Male,Master's Degree (non-MBA),Experienced hire,5,154800,154800,10900,10900
+Manager,Commercial,Advisory,US,Male,Master's Degree (non-MBA),Experienced hire,6,137000,137000,20000,20000
+Manager,Commercial,Advisory,US,Male,Master's Degree (non-MBA),Experienced hire,7,150000,150000,15000,15000
+Manager,Commercial,Advisory,US,Male,Master's Degree (non-MBA),Experienced hire,9,152700,152700,31000,31000
+Manager,Commercial,Advisory,US,Male,Master's Degree (non-MBA),Experienced hire,20,160000,160000,14000,14000
+Manager,Commercial,Advisory,US,Prefer not to say,Bachelors,Experienced hire,14,152700,152700,14500,14500
+Manager,Commercial,Advisory,US,Prefer not to say,Master's Degree (non-MBA),Campus hire,8,113000,113000,6500,6500
+Manager,Commercial,Advisory,US,Prefer not to say,Master's Degree (non-MBA),Campus hire,9,143000,143000,36000,36000
+Manager,Commercial,Consulting,US,Female,Bachelors,Campus hire,6,157350,157350,38700,38700
+Manager,Commercial,Consulting,US,Female,Bachelors,Campus hire,7,146567,141400,42700,44000
+Manager,Commercial,Consulting,US,Female,Bachelors,Campus hire,8,150467,153700,27400,24800
+Manager,Commercial,Consulting,US,Female,Bachelors,Campus hire,9,150000,150000,36000,36000
+Manager,Commercial,Consulting,US,Female,Bachelors,Campus hire,10,162450,162450,38300,38300
+Manager,Commercial,Consulting,US,Female,Bachelors,Experienced hire,6,145700,145700,52200,52200
+Manager,Commercial,Consulting,US,Female,Bachelors,Experienced hire,7,158850,158850,42000,42000
+Manager,Commercial,Consulting,US,Female,Bachelors,Experienced hire,8,157950,157950,38050,38050
+Manager,Commercial,Consulting,US,Female,Bachelors,Experienced hire,10,169833,168000,31550,30250
+Manager,Commercial,Consulting,US,Female,Bachelors,Experienced hire,11,142500,142500,41500,41500
+Manager,Commercial,Consulting,US,Female,Bachelors,Experienced hire,14,175000,175000,45000,45000
+Manager,Commercial,Consulting,US,Female,Doctorate,Campus hire,6,147300,147300,31500,31500
+Manager,Commercial,Consulting,US,Female,MBA,Campus hire,2,168450,164900,25975,25500
+Manager,Commercial,Consulting,US,Female,MBA,Campus hire,3,174433,172000,30100,28400
+Manager,Commercial,Consulting,US,Female,MBA,Campus hire,4,161650,167400,27550,28750
+Manager,Commercial,Consulting,US,Female,MBA,Campus hire,5,168150,167800,25000,26750
+Manager,Commercial,Consulting,US,Female,MBA,Campus hire,6,167500,167500,36250,36250
+Manager,Commercial,Consulting,US,Female,MBA,Campus hire,7,174000,175000,31933,29550
+Manager,Commercial,Consulting,US,Female,MBA,Campus hire,8,167167,165800,31850,33750
+Manager,Commercial,Consulting,US,Female,MBA,Campus hire,9,164900,166300,39675,31500
+Manager,Commercial,Consulting,US,Female,MBA,Campus hire,12,187367,165500,28000,25000
+Manager,Commercial,Consulting,US,Female,MBA,Campus hire,14,185000,185000,35000,35000
+Manager,Commercial,Consulting,US,Female,MBA,Campus hire,17,181500,181500,24500,24500
+Manager,Commercial,Consulting,US,Female,MBA,Experienced hire,7,170000,170000,27000,27000
+Manager,Commercial,Consulting,US,Female,MBA,Experienced hire,8,172800,172800,40000,40000
+Manager,Commercial,Consulting,US,Female,MBA,Experienced hire,9,159800,159800,27800,27800
+Manager,Commercial,Consulting,US,Female,MBA,Experienced hire,11,180200,180200,52500,52500
+Manager,Commercial,Consulting,US,Female,MBA,Experienced hire,20,180000,180000,2590,2590
+Manager,Commercial,Consulting,US,Female,Master's Degree (non-MBA),Campus hire,4,160000,160000,44200,44200
+Manager,Commercial,Consulting,US,Female,Master's Degree (non-MBA),Campus hire,5,143400,143400,26000,26000
+Manager,Commercial,Consulting,US,Female,Master's Degree (non-MBA),Campus hire,7,175000,175000,32000,32000
+Manager,Commercial,Consulting,US,Female,Master's Degree (non-MBA),Campus hire,8,164625,171200,29700,28400
+Manager,Commercial,Consulting,US,Female,Master's Degree (non-MBA),Campus hire,14,170000,170000,30000,30000
+Manager,Commercial,Consulting,US,Female,Master's Degree (non-MBA),Experienced hire,4,160000,160000,34100,34100
+Manager,Commercial,Consulting,US,Female,Master's Degree (non-MBA),Experienced hire,6,148960,160000,35880,39000
+Manager,Commercial,Consulting,US,Female,Master's Degree (non-MBA),Experienced hire,7,193000,193000,25000,25000
+Manager,Commercial,Consulting,US,Female,Master's Degree (non-MBA),Experienced hire,8,162400,157000,43660,42500
+Manager,Commercial,Consulting,US,Female,Master's Degree (non-MBA),Experienced hire,9,210000,210000,56000,56000
+Manager,Commercial,Consulting,US,Female,Master's Degree (non-MBA),Experienced hire,10,159025,157550,32000,28000
+Manager,Commercial,Consulting,US,Female,Master's Degree (non-MBA),Experienced hire,15,149000,149000,30250,30250
+Manager,Commercial,Consulting,US,Female,Master's Degree (non-MBA),Experienced hire,20,195000,195000,25000,25000
+Manager,Commercial,Consulting,US,Female,Master's Degree (non-MBA),Experienced hire,25,175095,175095,25000,25000
+Manager,Commercial,Consulting,US,Male,Associate's Degree,Experienced hire,11,112000,112000,22200,22200
+Manager,Commercial,Consulting,US,Male,Bachelors,Campus hire,5,131000,131000,42500,42500
+Manager,Commercial,Consulting,US,Male,Bachelors,Campus hire,6,142667,138000,33367,30000
+Manager,Commercial,Consulting,US,Male,Bachelors,Campus hire,7,148000,148000,20800,20800
+Manager,Commercial,Consulting,US,Male,Bachelors,Campus hire,8,153833,148800,37633,34700
+Manager,Commercial,Consulting,US,Male,Bachelors,Campus hire,9,140300,140300,73100,73100
+Manager,Commercial,Consulting,US,Male,Bachelors,Experienced hire,5,138675,139900,31075,31850
+Manager,Commercial,Consulting,US,Male,Bachelors,Experienced hire,6,171750,171750,27200,27200
+Manager,Commercial,Consulting,US,Male,Bachelors,Experienced hire,7,143400,143400,35000,35000
+Manager,Commercial,Consulting,US,Male,Bachelors,Experienced hire,8,151867,151800,30144,29100
+Manager,Commercial,Consulting,US,Male,Bachelors,Experienced hire,9,171000,171000,29250,29250
+Manager,Commercial,Consulting,US,Male,Bachelors,Experienced hire,10,149000,149000,42050,42050
+Manager,Commercial,Consulting,US,Male,Bachelors,Experienced hire,11,157500,157100,34867,33600
+Manager,Commercial,Consulting,US,Male,Bachelors,Experienced hire,12,154200,153900,18750,20000
+Manager,Commercial,Consulting,US,Male,Bachelors,Experienced hire,13,153233,151000,43567,50000
+Manager,Commercial,Consulting,US,Male,Bachelors,Experienced hire,14,156950,156950,63650,63650
+Manager,Commercial,Consulting,US,Male,Bachelors,Experienced hire,15,176750,176750,20000,20000
+Manager,Commercial,Consulting,US,Male,Bachelors,Experienced hire,16,153500,153500,23250,23250
+Manager,Commercial,Consulting,US,Male,Bachelors,Experienced hire,17,150000,150000,52000,52000
+Manager,Commercial,Consulting,US,Male,Bachelors,Experienced hire,22,199100,199100,25000,25000
+Manager,Commercial,Consulting,US,Male,Bachelors,Experienced hire,25,160000,160000,28900,28900
+Manager,Commercial,Consulting,US,Male,Doctorate,Experienced hire,15,1000000,1000000,1000000,1000000
+Manager,Commercial,Consulting,US,Male,J.D.,Experienced hire,11,136800,136800,0,0
+Manager,Commercial,Consulting,US,Male,MBA,Campus hire,2,163967,161400,17967,15000
+Manager,Commercial,Consulting,US,Male,MBA,Campus hire,3,175000,175000,26000,26000
+Manager,Commercial,Consulting,US,Male,MBA,Campus hire,4,168900,168900,28250,28250
+Manager,Commercial,Consulting,US,Male,MBA,Campus hire,5,167040,164800,26060,22600
+Manager,Commercial,Consulting,US,Male,MBA,Campus hire,6,167980,167100,24200,22600
+Manager,Commercial,Consulting,US,Male,MBA,Campus hire,7,167356,167500,34844,31500
+Manager,Commercial,Consulting,US,Male,MBA,Campus hire,8,167671,167000,35486,35700
+Manager,Commercial,Consulting,US,Male,MBA,Campus hire,9,169000,167000,28914,20000
+Manager,Commercial,Consulting,US,Male,MBA,Campus hire,10,167729,168000,30614,29100
+Manager,Commercial,Consulting,US,Male,MBA,Campus hire,11,191500,191500,34600,34600
+Manager,Commercial,Consulting,US,Male,MBA,Campus hire,13,176800,176800,25900,25900
+Manager,Commercial,Consulting,US,Male,MBA,Experienced hire,3,158200,158200,16900,16900
+Manager,Commercial,Consulting,US,Male,MBA,Experienced hire,7,155200,155000,26775,27300
+Manager,Commercial,Consulting,US,Male,MBA,Experienced hire,9,178000,178000,49500,49500
+Manager,Commercial,Consulting,US,Male,MBA,Experienced hire,10,146100,147300,29667,28000
+Manager,Commercial,Consulting,US,Male,MBA,Experienced hire,11,151000,151000,52200,52200
+Manager,Commercial,Consulting,US,Male,MBA,Experienced hire,12,167467,160000,34500,34600
+Manager,Commercial,Consulting,US,Male,MBA,Experienced hire,13,179500,179500,24100,24100
+Manager,Commercial,Consulting,US,Male,MBA,Experienced hire,14,172000,172000,26000,26000
+Manager,Commercial,Consulting,US,Male,MBA,Experienced hire,15,175100,175100,20000,20000
+Manager,Commercial,Consulting,US,Male,MBA,Experienced hire,18,195000,195000,18000,18000
+Manager,Commercial,Consulting,US,Male,MBA,GSAP,7,168000,168000,22600,22600
+Manager,Commercial,Consulting,US,Male,Master's Degree (non-MBA),Campus hire,2,167800,167800,22600,22600
+Manager,Commercial,Consulting,US,Male,Master's Degree (non-MBA),Campus hire,3,175000,175000,26000,26000
+Manager,Commercial,Consulting,US,Male,Master's Degree (non-MBA),Campus hire,4,145000,145000,30000,30000
+Manager,Commercial,Consulting,US,Male,Master's Degree (non-MBA),Campus hire,6,143850,140800,29275,31800
+Manager,Commercial,Consulting,US,Male,Master's Degree (non-MBA),Campus hire,8,177600,177600,30400,30400
+Manager,Commercial,Consulting,US,Male,Master's Degree (non-MBA),Campus hire,9,159900,159900,34600,34600
+Manager,Commercial,Consulting,US,Male,Master's Degree (non-MBA),Campus hire,10,157900,164500,20333,20000
+Manager,Commercial,Consulting,US,Male,Master's Degree (non-MBA),Experienced hire,3,159000,159000,180000,180000
+Manager,Commercial,Consulting,US,Male,Master's Degree (non-MBA),Experienced hire,4,171600,171600,55600,55600
+Manager,Commercial,Consulting,US,Male,Master's Degree (non-MBA),Experienced hire,6,150000,150000,30050,30050
+Manager,Commercial,Consulting,US,Male,Master's Degree (non-MBA),Experienced hire,7,153100,148950,33875,37000
+Manager,Commercial,Consulting,US,Male,Master's Degree (non-MBA),Experienced hire,10,152267,144800,30967,25300
+Manager,Commercial,Consulting,US,Male,Master's Degree (non-MBA),Experienced hire,11,178533,175600,34933,34800
+Manager,Commercial,Consulting,US,Male,Master's Degree (non-MBA),Experienced hire,12,161500,161500,19400,19400
+Manager,Commercial,Consulting,US,Male,Master's Degree (non-MBA),Experienced hire,13,169150,169150,24550,24550
+Manager,Commercial,Consulting,US,Male,Master's Degree (non-MBA),Experienced hire,15,175700,175700,40050,40050
+Manager,Commercial,Consulting,US,Male,Master's Degree (non-MBA),Experienced hire,16,157280,158000,22667,21000
+Manager,Commercial,Consulting,US,Male,Master's Degree (non-MBA),Experienced hire,17,163250,163250,16000,16000
+Manager,Commercial,Consulting,US,Male,Master's Degree (non-MBA),Experienced hire,19,174600,174600,36000,36000
+Manager,Commercial,Consulting,US,Male,Master's Degree (non-MBA),Experienced hire,20,163067,163300,30233,23500
+Manager,Commercial,Consulting,US,Prefer not to say,Bachelors,Campus hire,10,166000,166000,53100,53100
+Manager,Commercial,Consulting,US,Prefer not to say,Bachelors,Experienced hire,4,165000,165000,40000,40000
+Manager,Commercial,Consulting,US,Prefer not to say,Bachelors,Experienced hire,6,127500,127500,22000,22000
+Manager,Commercial,Consulting,US,Prefer not to say,Bachelors,Experienced hire,7,168900,168900,34600,34600
+Manager,Commercial,Consulting,US,Prefer not to say,Bachelors,Experienced hire,9,141000,141000,31000,31000
+Manager,Commercial,Consulting,US,Prefer not to say,Bachelors,Experienced hire,10,156067,158200,38333,31500
+Manager,Commercial,Consulting,US,Prefer not to say,Bachelors,Experienced hire,11,167500,167500,42250,42250
+Manager,Commercial,Consulting,US,Prefer not to say,Bachelors,Experienced hire,12,164000,164000,24000,24000
+Manager,Commercial,Consulting,US,Prefer not to say,Bachelors,Experienced hire,13,167000,167000,25000,25000
+Manager,Commercial,Consulting,US,Prefer not to say,Bachelors,Experienced hire,14,157900,157900,31500,31500
+Manager,Commercial,Consulting,US,Prefer not to say,MBA,Campus hire,6,166400,166400,24000,24000
+Manager,Commercial,Consulting,US,Prefer not to say,MBA,Campus hire,7,127000,127000,28000,28000
+Manager,Commercial,Consulting,US,Prefer not to say,MBA,Campus hire,9,175000,175000,42000,42000
+Manager,Commercial,Consulting,US,Prefer not to say,MBA,Campus hire,10,175000,175000,28000,28000
+Manager,Commercial,Consulting,US,Prefer not to say,MBA,Campus hire,11,176800,176800,30800,30800
+Manager,Commercial,Consulting,US,Prefer not to say,MBA,Campus hire,12,180000,180000,40000,40000
+Manager,Commercial,Consulting,US,Prefer not to say,MBA,Experienced hire,5,166800,166800,36950,36950
+Manager,Commercial,Consulting,US,Prefer not to say,MBA,Experienced hire,13,175000,175000,0,0
+Manager,Commercial,Consulting,US,Prefer not to say,MBA,Experienced hire,16,170000,170000,26800,26800
+Manager,Commercial,Consulting,US,Prefer not to say,MBA,Experienced hire,17,180000,180000,0,0
+Manager,Commercial,Consulting,US,Prefer not to say,Master's Degree (non-MBA),Campus hire,8,165000,165000,39000,39000
+Manager,Commercial,Consulting,US,Prefer not to say,Master's Degree (non-MBA),Campus hire,9,168000,168000,36000,36000
+Manager,Commercial,Consulting,US,Prefer not to say,Master's Degree (non-MBA),Campus hire,10,160000,160000,34000,34000
+Manager,Commercial,Consulting,US,Prefer not to say,Master's Degree (non-MBA),Experienced hire,7,160000,160000,54000,54000
+Manager,Commercial,Consulting,US,Prefer not to say,Master's Degree (non-MBA),Experienced hire,11,156500,156500,25000,25000
+Manager,Commercial,Consulting,US,Prefer not to say,Master's Degree (non-MBA),Experienced hire,14,180900,180900,30500,30500
+Manager,Commercial,Consulting,US,Prefer not to say,Master's Degree (non-MBA),Experienced hire,15,156200,156200,20000,20000
+Manager,Commercial,Services,US,Female,Master's Degree (non-MBA),Experienced hire,10,125000,125000,20000,20000
+Manager,Commercial,Tax,US,Female,Doctorate,Experienced hire,10,150000,150000,18000,18000
+Manager,Commercial,Tax,US,Female,MBA,Experienced hire,9,117163,117163,8500,8500
+Manager,GPS,Advisory,US,Female,Bachelors,Campus hire,4,118000,118000,25000,25000
+Manager,GPS,Advisory,US,Female,Bachelors,Experienced hire,6,121000,121000,25000,25000
+Manager,GPS,Advisory,US,Female,MBA,Experienced hire,4,125000,125000,20000,20000
+Manager,GPS,Advisory,US,Female,Master's Degree (non-MBA),Experienced hire,8,135000,135000,15000,15000
+Manager,GPS,Advisory,US,Female,Master's Degree (non-MBA),Experienced hire,10,133000,133000,28000,28000
+Manager,GPS,Advisory,US,Female,Master's Degree (non-MBA),Experienced hire,11,120200,120200,42000,42000
+Manager,GPS,Advisory,US,Female,Master's Degree (non-MBA),Experienced hire,13,140800,140800,42000,42000
+Manager,GPS,Advisory,US,Male,Bachelors,Campus hire,7,114800,114800,25000,25000
+Manager,GPS,Advisory,US,Male,Bachelors,Experienced hire,5,104000,104000,10000,10000
+Manager,GPS,Advisory,US,Male,Bachelors,Experienced hire,10,119000,119000,6000,6000
+Manager,GPS,Advisory,US,Male,MBA,Experienced hire,9,130000,130000,42000,42000
+Manager,GPS,Advisory,US,Male,Master's Degree (non-MBA),Campus hire,15,119000,119000,13000,13000
+Manager,GPS,Advisory,US,Non-conforming/non-binary,Bachelors,Experienced hire,30,151542,151542,22000,22000
+Manager,GPS,Advisory,US,Prefer not to say,Master's Degree (non-MBA),Experienced hire,20,129000,129000,16000,16000
+Manager,GPS,Consulting,US,Female,Bachelors,Campus hire,4,125000,125000,25000,25000
+Manager,GPS,Consulting,US,Female,Bachelors,Campus hire,6,126600,126600,26500,26500
+Manager,GPS,Consulting,US,Female,Bachelors,Campus hire,7,120300,120800,20800,20800
+Manager,GPS,Consulting,US,Female,Bachelors,Campus hire,8,116600,116600,20800,20800
+Manager,GPS,Consulting,US,Female,Bachelors,Campus hire,9,141850,141850,52200,52200
+Manager,GPS,Consulting,US,Female,Bachelors,Experienced hire,6,131500,131500,31500,31500
+Manager,GPS,Consulting,US,Female,Bachelors,Experienced hire,8,115667,108000,24200,20800
+Manager,GPS,Consulting,US,Female,Bachelors,Experienced hire,9,148050,148050,34000,34000
+Manager,GPS,Consulting,US,Female,Bachelors,Experienced hire,12,107100,107100,18500,18500
+Manager,GPS,Consulting,US,Female,Bachelors,Experienced hire,13,136950,136950,42300,42300
+Manager,GPS,Consulting,US,Female,Bachelors,Experienced hire,15,136500,136500,34600,34600
+Manager,GPS,Consulting,US,Female,Doctorate,Experienced hire,6,125900,125900,31500,31500
+Manager,GPS,Consulting,US,Female,J.D.,Experienced hire,4,139900,139900,34600,34600
+Manager,GPS,Consulting,US,Female,MBA,Campus hire,4,143600,143600,13900,13900
+Manager,GPS,Consulting,US,Female,MBA,Campus hire,7,138000,138000,20800,20800
+Manager,GPS,Consulting,US,Female,MBA,Campus hire,9,138000,138000,0,0
+Manager,GPS,Consulting,US,Female,MBA,Campus hire,11,129700,129700,20800,20800
+Manager,GPS,Consulting,US,Female,MBA,Campus hire,12,139400,139400,9300,9300
+Manager,GPS,Consulting,US,Female,MBA,Experienced hire,8,147250,147250,27700,27700
+Manager,GPS,Consulting,US,Female,MBA,Experienced hire,10,149000,149000,40000,40000
+Manager,GPS,Consulting,US,Female,MBA,Experienced hire,15,142400,142400,23500,23500
+Manager,GPS,Consulting,US,Female,MBA,Experienced hire,25,160000,160000,18500,18500
+Manager,GPS,Consulting,US,Female,Master's Degree (non-MBA),Campus hire,6,142600,142600,33050,33050
+Manager,GPS,Consulting,US,Female,Master's Degree (non-MBA),Campus hire,7,127767,127700,81300,52800
+Manager,GPS,Consulting,US,Female,Master's Degree (non-MBA),Campus hire,9,152000,152000,37600,37600
+Manager,GPS,Consulting,US,Female,Master's Degree (non-MBA),Campus hire,11,132500,132500,52000,52000
+Manager,GPS,Consulting,US,Female,Master's Degree (non-MBA),Campus hire,12,107000,107000,20000,20000
+Manager,GPS,Consulting,US,Female,Master's Degree (non-MBA),Experienced hire,7,127000,127000,20900,20900
+Manager,GPS,Consulting,US,Female,Master's Degree (non-MBA),Experienced hire,9,148500,148500,18500,18500
+Manager,GPS,Consulting,US,Female,Master's Degree (non-MBA),Experienced hire,10,138433,139000,38833,45400
+Manager,GPS,Consulting,US,Female,Master's Degree (non-MBA),Experienced hire,12,120800,120800,39700,39700
+Manager,GPS,Consulting,US,Female,Master's Degree (non-MBA),Experienced hire,15,173000,173000,42000,42000
+Manager,GPS,Consulting,US,Female,Master's Degree (non-MBA),Experienced hire,20,176100,176100,21800,21800
+Manager,GPS,Consulting,US,Female,Master's Degree (non-MBA),Experienced hire,26,137300,137300,20000,20000
+Manager,GPS,Consulting,US,Male,Bachelors,Campus hire,5,133300,133300,31500,31500
+Manager,GPS,Consulting,US,Male,Bachelors,Campus hire,6,145733,145000,27933,31500
+Manager,GPS,Consulting,US,Male,Bachelors,Campus hire,7,130800,134500,27725,27650
+Manager,GPS,Consulting,US,Male,Bachelors,Campus hire,8,138000,138000,20800,20800
+Manager,GPS,Consulting,US,Male,Bachelors,Experienced hire,6,147000,147000,52200,52200
+Manager,GPS,Consulting,US,Male,Bachelors,Experienced hire,8,126900,126900,23700,23700
+Manager,GPS,Consulting,US,Male,Bachelors,Experienced hire,10,140343,144500,25770,20800
+Manager,GPS,Consulting,US,Male,Bachelors,Experienced hire,11,135860,135860,11100,11100
+Manager,GPS,Consulting,US,Male,Bachelors,Experienced hire,12,134033,133600,29233,34600
+Manager,GPS,Consulting,US,Male,Bachelors,Experienced hire,13,148033,145000,24367,20000
+Manager,GPS,Consulting,US,Male,Bachelors,Experienced hire,15,160500,160500,179400,179400
+Manager,GPS,Consulting,US,Male,Bachelors,Experienced hire,18,138000,138000,22000,22000
+Manager,GPS,Consulting,US,Male,Bachelors,Experienced hire,24,151500,151500,18500,18500
+Manager,GPS,Consulting,US,Male,MBA,Campus hire,4,139000,139000,20800,20800
+Manager,GPS,Consulting,US,Male,MBA,Campus hire,9,171000,171000,25900,25900
+Manager,GPS,Consulting,US,Male,MBA,Campus hire,10,155500,155500,20800,20800
+Manager,GPS,Consulting,US,Male,MBA,Campus hire,13,159000,159000,52200,52200
+Manager,GPS,Consulting,US,Male,MBA,Campus hire,15,132200,132200,52200,52200
+Manager,GPS,Consulting,US,Male,MBA,Experienced hire,7,140200,140200,22200,22200
+Manager,GPS,Consulting,US,Male,MBA,Experienced hire,8,135900,135900,34500,34500
+Manager,GPS,Consulting,US,Male,MBA,Experienced hire,9,142300,142300,34600,34600
+Manager,GPS,Consulting,US,Male,MBA,Experienced hire,10,141000,141000,34500,34500
+Manager,GPS,Consulting,US,Male,MBA,Experienced hire,12,137000,137000,24000,24000
+Manager,GPS,Consulting,US,Male,MBA,Experienced hire,14,124000,124000,32100,32100
+Manager,GPS,Consulting,US,Male,MBA,Experienced hire,15,205000,205000,18000,18000
+Manager,GPS,Consulting,US,Male,MBA,Experienced hire,16,162600,162600,34600,34600
+Manager,GPS,Consulting,US,Male,Master's Degree (non-MBA),Campus hire,8,162400,162400,52000,52000
+Manager,GPS,Consulting,US,Male,Master's Degree (non-MBA),Experienced hire,5,135000,135000,12000,12000
+Manager,GPS,Consulting,US,Male,Master's Degree (non-MBA),Experienced hire,8,134160,134160,12750,12750
+Manager,GPS,Consulting,US,Male,Master's Degree (non-MBA),Experienced hire,9,130000,130000,18500,18500
+Manager,GPS,Consulting,US,Male,Master's Degree (non-MBA),Experienced hire,10,145067,147000,28933,21600
+Manager,GPS,Consulting,US,Male,Master's Degree (non-MBA),Experienced hire,11,135000,135000,27000,27000
+Manager,GPS,Consulting,US,Male,Master's Degree (non-MBA),Experienced hire,12,141200,141200,20800,20800
+Manager,GPS,Consulting,US,Male,Master's Degree (non-MBA),Experienced hire,13,127700,127700,35100,35100
+Manager,GPS,Consulting,US,Male,Master's Degree (non-MBA),Experienced hire,14,119900,119900,18500,18500
+Manager,GPS,Consulting,US,Male,Master's Degree (non-MBA),Experienced hire,16,150000,150000,14400,14400
+Manager,GPS,Consulting,US,Male,Master's Degree (non-MBA),Experienced hire,18,147000,147000,20000,20000
+Manager,GPS,Consulting,US,Male,Master's Degree (non-MBA),Experienced hire,35,180000,180000,19300,19300
+Manager,GPS,Consulting,US,Male,Post Graduate Degree,Experienced hire,23,145000,145000,25000,25000
+Manager,GPS,Consulting,US,Prefer not to say,Bachelors,Campus hire,7,131650,131650,37400,37400
+Manager,GPS,Consulting,US,Prefer not to say,Bachelors,Campus hire,10,140000,140000,52200,52200
+Manager,GPS,Consulting,US,Prefer not to say,Bachelors,Experienced hire,8,100600,100600,20800,20800
+Manager,GPS,Consulting,US,Prefer not to say,Bachelors,Experienced hire,11,131000,131000,33000,33000
+Manager,GPS,Consulting,US,Prefer not to say,Bachelors,Experienced hire,15,134000,134000,10000,10000
+Manager,GPS,Consulting,US,Prefer not to say,Master's Degree (non-MBA),Experienced hire,15,150667,145000,29833,32000
+Manager,GPS,Services,US,Female,Master's Degree (non-MBA),Experienced hire,10,123528,123528,11000,11000
+Manager,GPS,Services,US,Male,Master's Degree (non-MBA),Experienced hire,10,89497,89497,1700,1700
+Manager,Not applicable,Advisory,US,Female,Master's Degree (non-MBA),Experienced hire,10,134000,134000,10700,10700
+Manager,Not applicable,Consulting,US,Female,Bachelors,Experienced hire,25,133000,133000,8500,8500
+Manager,Not applicable,Consulting,US,Female,MBA,Campus hire,5,164000,164000,22600,22600
+Manager,Not applicable,Consulting,US,Female,Master's Degree (non-MBA),Experienced hire,8,210000,210000,20000,20000
+Manager,Not applicable,Consulting,US,Male,Bachelors,Campus hire,0,140000,140000,5000,5000
+Manager,Not applicable,Consulting,US,Male,Bachelors,Campus hire,9,152000,152000,30000,30000
+Manager,Not applicable,Consulting,US,Male,Bachelors,Experienced hire,10,132700,132700,18000,18000
+Manager,Not applicable,Consulting,US,Prefer not to say,Master's Degree (non-MBA),Campus hire,13,151500,151500,24500,24500
+Manager,Not applicable,Enabling Areas,US,Female,Master's Degree (non-MBA),Experienced hire,12,138000,138000,6000,6000
+Manager,Not applicable,Enabling Areas,US,Male,Master's Degree (non-MBA),Experienced hire,6,108700,108700,7500,7500
+Manager,Not applicable,Services,US,Female,Bachelors,Experienced hire,8,140000,140000,5500,5500
+Manager,Not applicable,Services,US,Female,Bachelors,Experienced hire,9,125000,125000,6500,6500
+Manager,Not applicable,Services,US,Female,MBA,Experienced hire,10,130500,130500,10000,10000
+Manager,Not applicable,Services,US,Female,Master's Degree (non-MBA),Campus hire,12,122600,122600,7009,7009
+Manager,Not applicable,Services,US,Female,Master's Degree (non-MBA),Experienced hire,20,123000,123000,3500,3500
+Manager,Not applicable,Services,US,Male,MBA,Experienced hire,15,128000,128000,5000,5000
+Manager,Not applicable,Tax,US,Female,Bachelors,Experienced hire,8,115000,115000,16000,16000
+Manager,Not applicable,Tax,US,Female,Bachelors,Experienced hire,10,95500,95500,6250,6250
+Manager,Not applicable,Tax,US,Female,Bachelors,Experienced hire,13,143100,143100,12500,12500
+Manager,Not applicable,Tax,US,Female,Master's Degree (non-MBA),Campus hire,6,135000,135000,15000,15000
+Manager,Not applicable,Tax,US,Female,Master's Degree (non-MBA),Experienced hire,7,115000,115000,18000,18000
+Manager,Not applicable,Tax,US,Female,Master's Degree (non-MBA),Experienced hire,14,130000,130000,18000,18000
+Manager,Not applicable,Tax,US,Male,J.D.,Experienced hire,6,156000,156000,22000,22000
+Manager,Not applicable,Tax,US,Male,J.D.,Experienced hire,8,130000,130000,16000,16000
+Manager,Not applicable,Tax,US,Male,Master's Degree (non-MBA),Campus hire,7,109000,109000,10000,10000
+Manager,Not applicable,Tax,US,Male,Master's Degree (non-MBA),Experienced hire,6,133300,133300,17000,17000
+Manager,Not applicable,Tax,US,Prefer not to say,Master's Degree (non-MBA),Experienced hire,8,129500,129500,13500,13500
+Manager,Not applicable,Tax,US,Prefer not to say,Master's Degree (non-MBA),Experienced hire,10,130000,130000,12000,12000
+Partner/principal,Commercial,Consulting,US,Female,Bachelors,Campus hire,2,93200,93200,0,0
+Partner/principal,Commercial,Consulting,US,Female,Master's Degree (non-MBA),Experienced hire,25,1050000,1050000,0,0
+Partner/principal,GPS,Consulting,US,Male,Bachelors,Campus hire,3,85400,85400,7100,7100
+Senior consultant,Commercial,Advisory,US,Female,Bachelors,Campus hire,2,83000,83000,0,0
+Senior consultant,Commercial,Advisory,US,Female,Bachelors,Campus hire,3,93300,93300,7500,7500
+Senior consultant,Commercial,Advisory,US,Female,Bachelors,Experienced hire,5,100800,100800,14000,14000
+Senior consultant,Commercial,Advisory,US,Female,Master's Degree (non-MBA),Campus hire,4,102000,102000,6700,6700
+Senior consultant,Commercial,Advisory,US,Female,Master's Degree (non-MBA),Experienced hire,5,96900,96900,7300,7300
+Senior consultant,Commercial,Advisory,US,Male,Bachelors,Campus hire,2,82440,84000,1000,0
+Senior consultant,Commercial,Advisory,US,Male,Bachelors,Campus hire,6,125000,125000,15000,15000
+Senior consultant,Commercial,Advisory,US,Male,Bachelors,Experienced hire,5,93450,93450,5600,5600
+Senior consultant,Commercial,Advisory,US,Male,Bachelors,Experienced hire,6,120400,120400,13000,13000
+Senior consultant,Commercial,Advisory,US,Male,Bachelors,Experienced hire,7,126300,126300,8000,8000
+Senior consultant,Commercial,Advisory,US,Male,Doctorate,Campus hire,4,80700,80700,7000,7000
+Senior consultant,Commercial,Advisory,US,Male,High School,Experienced hire,6,115000,115000,10000,10000
+Senior consultant,Commercial,Advisory,US,Male,J.D.,Experienced hire,7,115000,115000,8800,8800
+Senior consultant,Commercial,Advisory,US,Male,MBA,Experienced hire,6,120700,120700,8000,8000
+Senior consultant,Commercial,Advisory,US,Male,Master's Degree (non-MBA),Campus hire,2,87793,87793,3300,3300
+Senior consultant,Commercial,Advisory,US,Male,Master's Degree (non-MBA),Campus hire,4,106000,106000,20000,20000
+Senior consultant,Commercial,Advisory,US,Male,Master's Degree (non-MBA),Experienced hire,7,114500,114500,7500,7500
+Senior consultant,Commercial,Advisory,US,Prefer not to say,Bachelors,Campus hire,3,82000,82000,6000,6000
+Senior consultant,Commercial,Consulting,US,Female,Bachelors,Campus hire,3,113375,113375,19900,19900
+Senior consultant,Commercial,Consulting,US,Female,Bachelors,Campus hire,4,116214,114250,14971,12550
+Senior consultant,Commercial,Consulting,US,Female,Bachelors,Campus hire,5,120675,114050,14275,14100
+Senior consultant,Commercial,Consulting,US,Female,Bachelors,Campus hire,6,126367,125900,32567,34000
+Senior consultant,Commercial,Consulting,US,Female,Bachelors,Experienced hire,2,121050,121050,15850,15850
+Senior consultant,Commercial,Consulting,US,Female,Bachelors,Experienced hire,3,116000,116000,15000,15000
+Senior consultant,Commercial,Consulting,US,Female,Bachelors,Experienced hire,4,120900,119000,20433,17200
+Senior consultant,Commercial,Consulting,US,Female,Bachelors,Experienced hire,5,119606,122200,18525,15350
+Senior consultant,Commercial,Consulting,US,Female,Bachelors,Experienced hire,6,131600,131600,24000,24000
+Senior consultant,Commercial,Consulting,US,Female,Bachelors,Experienced hire,7,129200,129200,18000,18000
+Senior consultant,Commercial,Consulting,US,Female,Bachelors,Experienced hire,9,130067,125200,24167,20000
+Senior consultant,Commercial,Consulting,US,Female,Bachelors,Experienced hire,10,119250,119250,13900,13900
+Senior consultant,Commercial,Consulting,US,Female,Bachelors,Experienced hire,13,135300,135300,15000,15000
+Senior consultant,Commercial,Consulting,US,Female,Bachelors,Experienced hire,15,133400,133400,24800,24800
+Senior consultant,Commercial,Consulting,US,Female,MBA,Campus hire,4,165100,165100,6450,6450
+Senior consultant,Commercial,Consulting,US,Female,MBA,Campus hire,5,150350,150350,18850,18850
+Senior consultant,Commercial,Consulting,US,Female,MBA,Campus hire,6,165480,166800,10740,9700
+Senior consultant,Commercial,Consulting,US,Female,MBA,Campus hire,7,165300,165300,7500,7500
+Senior consultant,Commercial,Consulting,US,Female,MBA,Campus hire,8,158600,158600,19700,19700
+Senior consultant,Commercial,Consulting,US,Female,MBA,Experienced hire,3,121200,121200,14900,14900
+Senior consultant,Commercial,Consulting,US,Female,MBA,Experienced hire,7,124000,124000,13000,13000
+Senior consultant,Commercial,Consulting,US,Female,MBA,Experienced hire,8,134300,134300,16100,16100
+Senior consultant,Commercial,Consulting,US,Female,MBA,Experienced hire,10,149300,149300,7600,7600
+Senior consultant,Commercial,Consulting,US,Female,MBA,Experienced hire,12,144800,144800,28450,28450
+Senior consultant,Commercial,Consulting,US,Female,MBA,Experienced hire,20,150500,150500,15000,15000
+Senior consultant,Commercial,Consulting,US,Female,MBA,GSAP,4,170400,170400,10800,10800
+Senior consultant,Commercial,Consulting,US,Female,Master's Degree (non-MBA),Campus hire,2,151200,151200,20200,20200
+Senior consultant,Commercial,Consulting,US,Female,Master's Degree (non-MBA),Campus hire,4,124300,119000,20140,20000
+Senior consultant,Commercial,Consulting,US,Female,Master's Degree (non-MBA),Campus hire,5,123550,123550,17450,17450
+Senior consultant,Commercial,Consulting,US,Female,Master's Degree (non-MBA),Campus hire,6,128117,125000,18667,15000
+Senior consultant,Commercial,Consulting,US,Female,Master's Degree (non-MBA),Campus hire,7,130800,130800,40000,40000
+Senior consultant,Commercial,Consulting,US,Female,Master's Degree (non-MBA),Campus hire,8,142000,142000,9000,9000
+Senior consultant,Commercial,Consulting,US,Female,Master's Degree (non-MBA),Experienced hire,2,113950,113950,16100,16100
+Senior consultant,Commercial,Consulting,US,Female,Master's Degree (non-MBA),Experienced hire,5,118200,116600,10733,11000
+Senior consultant,Commercial,Consulting,US,Female,Master's Degree (non-MBA),Experienced hire,6,133150,133150,18900,18900
+Senior consultant,Commercial,Consulting,US,Female,Master's Degree (non-MBA),Experienced hire,7,140500,140500,0,0
+Senior consultant,Commercial,Consulting,US,Female,Master's Degree (non-MBA),Experienced hire,8,122233,120700,17833,12300
+Senior consultant,Commercial,Consulting,US,Female,Master's Degree (non-MBA),Experienced hire,12,150300,150300,7500,7500
+Senior consultant,Commercial,Consulting,US,Male,Bachelors,Campus hire,4,115886,113050,16343,16950
+Senior consultant,Commercial,Consulting,US,Male,Bachelors,Campus hire,5,121344,122100,25838,27550
+Senior consultant,Commercial,Consulting,US,Male,Bachelors,Campus hire,6,124127,120680,23333,21000
+Senior consultant,Commercial,Consulting,US,Male,Bachelors,Experienced hire,2,122800,122800,8000,8000
+Senior consultant,Commercial,Consulting,US,Male,Bachelors,Experienced hire,3,119300,119300,16700,16700
+Senior consultant,Commercial,Consulting,US,Male,Bachelors,Experienced hire,4,123500,125700,16833,17200
+Senior consultant,Commercial,Consulting,US,Male,Bachelors,Experienced hire,5,130000,131000,23600,24100
+Senior consultant,Commercial,Consulting,US,Male,Bachelors,Experienced hire,6,125817,128000,14079,12150
+Senior consultant,Commercial,Consulting,US,Male,Bachelors,Experienced hire,7,129780,126900,17500,17500
+Senior consultant,Commercial,Consulting,US,Male,Bachelors,Experienced hire,8,130500,130500,12950,12950
+Senior consultant,Commercial,Consulting,US,Male,Bachelors,Experienced hire,9,112825,112825,14250,14250
+Senior consultant,Commercial,Consulting,US,Male,Bachelors,Experienced hire,10,136000,136000,18100,18100
+Senior consultant,Commercial,Consulting,US,Male,Bachelors,Experienced hire,11,142000,142000,15000,15000
+Senior consultant,Commercial,Consulting,US,Male,Bachelors,Experienced hire,14,145000,145000,16300,16300
+Senior consultant,Commercial,Consulting,US,Male,Bachelors,Experienced hire,20,185000,185000,16400,16400
+Senior consultant,Commercial,Consulting,US,Male,MBA,Campus hire,0,165600,165600,7500,7500
+Senior consultant,Commercial,Consulting,US,Male,MBA,Campus hire,3,146650,146650,14650,14650
+Senior consultant,Commercial,Consulting,US,Male,MBA,Campus hire,4,167600,166800,9367,9700
+Senior consultant,Commercial,Consulting,US,Male,MBA,Campus hire,5,165600,165600,7500,7500
+Senior consultant,Commercial,Consulting,US,Male,MBA,Campus hire,6,166525,165550,7825,7500
+Senior consultant,Commercial,Consulting,US,Male,MBA,Campus hire,7,132000,132000,10650,10650
+Senior consultant,Commercial,Consulting,US,Male,MBA,Campus hire,8,164600,164600,5400,5400
+Senior consultant,Commercial,Consulting,US,Male,MBA,Campus hire,10,165600,165600,7500,7500
+Senior consultant,Commercial,Consulting,US,Male,MBA,Experienced hire,4,131000,131000,22800,22800
+Senior consultant,Commercial,Consulting,US,Male,MBA,Experienced hire,5,131275,132500,25200,23150
+Senior consultant,Commercial,Consulting,US,Male,MBA,Experienced hire,6,136000,136000,41000,41000
+Senior consultant,Commercial,Consulting,US,Male,MBA,Experienced hire,7,119000,119000,22000,22000
+Senior consultant,Commercial,Consulting,US,Male,MBA,Experienced hire,12,141650,141650,22050,22050
+Senior consultant,Commercial,Consulting,US,Male,MBA,Experienced hire,13,128550,128550,9300,9300
+Senior consultant,Commercial,Consulting,US,Male,MBA,Experienced hire,15,155000,155000,14000,14000
+Senior consultant,Commercial,Consulting,US,Male,Master's Degree (non-MBA),Campus hire,4,120657,115300,18500,15000
+Senior consultant,Commercial,Consulting,US,Male,Master's Degree (non-MBA),Campus hire,6,130833,131300,19000,15000
+Senior consultant,Commercial,Consulting,US,Male,Master's Degree (non-MBA),Campus hire,7,130400,130400,15000,15000
+Senior consultant,Commercial,Consulting,US,Male,Master's Degree (non-MBA),Experienced hire,2,116000,116000,14600,14600
+Senior consultant,Commercial,Consulting,US,Male,Master's Degree (non-MBA),Experienced hire,3,124900,124900,24800,24800
+Senior consultant,Commercial,Consulting,US,Male,Master's Degree (non-MBA),Experienced hire,4,123600,123600,12300,12300
+Senior consultant,Commercial,Consulting,US,Male,Master's Degree (non-MBA),Experienced hire,6,135533,136000,20000,15000
+Senior consultant,Commercial,Consulting,US,Male,Master's Degree (non-MBA),Experienced hire,7,124767,138800,14167,15000
+Senior consultant,Commercial,Consulting,US,Male,Master's Degree (non-MBA),Experienced hire,9,151200,151200,29100,29100
+Senior consultant,Commercial,Consulting,US,Male,Master's Degree (non-MBA),Experienced hire,10,141800,141800,15000,15000
+Senior consultant,Commercial,Consulting,US,Male,Master's Degree (non-MBA),Experienced hire,11,138800,138800,20000,20000
+Senior consultant,Commercial,Consulting,US,Male,Master's Degree (non-MBA),Experienced hire,12,139000,139000,25500,25500
+Senior consultant,Commercial,Consulting,US,Prefer not to say,Bachelors,Campus hire,4,115200,113000,14000,12300
+Senior consultant,Commercial,Consulting,US,Prefer not to say,Bachelors,Campus hire,5,129333,135000,24000,25000
+Senior consultant,Commercial,Consulting,US,Prefer not to say,Bachelors,Campus hire,6,122800,122800,37800,37800
+Senior consultant,Commercial,Consulting,US,Prefer not to say,Bachelors,Campus hire,7,124800,124800,15000,15000
+Senior consultant,Commercial,Consulting,US,Prefer not to say,Bachelors,Experienced hire,5,123400,123400,18000,18000
+Senior consultant,Commercial,Consulting,US,Prefer not to say,Bachelors,Experienced hire,7,155200,155200,35750,35750
+Senior consultant,Commercial,Consulting,US,Prefer not to say,Bachelors,Experienced hire,8,120000,120000,15000,15000
+Senior consultant,Commercial,Consulting,US,Prefer not to say,Master's Degree (non-MBA),Experienced hire,3,140000,140000,26000,26000
+Senior consultant,Commercial,Consulting,US,Prefer not to say,Master's Degree (non-MBA),Experienced hire,4,131000,131000,0,0
+Senior consultant,Commercial,Consulting,US,Prefer not to say,Master's Degree (non-MBA),Experienced hire,8,140000,140000,40000,40000
+Senior consultant,Commercial,Services,US,Female,Bachelors,Campus hire,10,105900,105900,3050,3050
+Senior consultant,Commercial,Tax,US,Female,Master's Degree (non-MBA),Campus hire,5,80000,80000,5000,5000
+Senior consultant,GPS,Advisory,US,Female,Bachelors,Campus hire,2,86620,86620,0,0
+Senior consultant,GPS,Advisory,US,Female,Bachelors,Campus hire,3,90065,90065,5000,5000
+Senior consultant,GPS,Advisory,US,Female,Bachelors,Campus hire,4,97300,97300,17500,17500
+Senior consultant,GPS,Advisory,US,Female,Bachelors,Campus hire,5,111000,111000,0,0
+Senior consultant,GPS,Advisory,US,Female,Bachelors,Experienced hire,5,92900,89950,5000,5000
+Senior consultant,GPS,Advisory,US,Female,Bachelors,Experienced hire,6,107200,107200,4000,4000
+Senior consultant,GPS,Advisory,US,Female,MBA,Experienced hire,4,123000,123000,10000,10000
+Senior consultant,GPS,Advisory,US,Female,Master's Degree (non-MBA),Campus hire,2,87000,87000,0,0
+Senior consultant,GPS,Advisory,US,Female,Master's Degree (non-MBA),Campus hire,5,108000,108000,18000,18000
+Senior consultant,GPS,Advisory,US,Female,Master's Degree (non-MBA),Experienced hire,5,90100,90100,10000,10000
+Senior consultant,GPS,Advisory,US,Female,Master's Degree (non-MBA),Experienced hire,6,89100,89100,0,0
+Senior consultant,GPS,Advisory,US,Female,Master's Degree (non-MBA),Experienced hire,7,124000,124000,18000,18000
+Senior consultant,GPS,Advisory,US,Male,Bachelors,Campus hire,3,89758,89758,2500,2500
+Senior consultant,GPS,Advisory,US,Male,Bachelors,Campus hire,4,96500,96500,18000,18000
+Senior consultant,GPS,Advisory,US,Male,Bachelors,Experienced hire,4,118000,118000,5800,5800
+Senior consultant,GPS,Advisory,US,Male,Bachelors,Experienced hire,5,100692,100692,7500,7500
+Senior consultant,GPS,Advisory,US,Male,Bachelors,Experienced hire,6,98850,98850,14000,14000
+Senior consultant,GPS,Advisory,US,Male,Bachelors,Experienced hire,7,92000,92000,10000,10000
+Senior consultant,GPS,Advisory,US,Male,Bachelors,Experienced hire,9,91700,91700,18000,18000
+Senior consultant,GPS,Advisory,US,Male,Bachelors,Experienced hire,13,107900,107900,3400,3400
+Senior consultant,GPS,Advisory,US,Male,Bachelors,Experienced hire,15,74000,74000,3000,3000
+Senior consultant,GPS,Advisory,US,Male,Bachelors,Experienced hire,22,110100,110100,0,0
+Senior consultant,GPS,Advisory,US,Male,MBA,Experienced hire,5,98400,98400,6700,6700
+Senior consultant,GPS,Advisory,US,Male,MBA,Experienced hire,7,105800,105800,25000,25000
+Senior consultant,GPS,Advisory,US,Male,Master's Degree (non-MBA),Campus hire,3,76483,76483,0,0
+Senior consultant,GPS,Advisory,US,Male,Master's Degree (non-MBA),Experienced hire,3,83000,83000,0,0
+Senior consultant,GPS,Advisory,US,Male,Master's Degree (non-MBA),Experienced hire,4,120000,120000,16000,16000
+Senior consultant,GPS,Consulting,US,Female,Bachelors,Campus hire,4,102856,103000,14822,12900
+Senior consultant,GPS,Consulting,US,Female,Bachelors,Campus hire,5,107240,108000,17330,13550
+Senior consultant,GPS,Consulting,US,Female,Bachelors,Campus hire,6,117940,115300,18740,20000
+Senior consultant,GPS,Consulting,US,Female,Bachelors,Experienced hire,2,97600,97600,12300,12300
+Senior consultant,GPS,Consulting,US,Female,Bachelors,Experienced hire,4,108600,108600,19400,19400
+Senior consultant,GPS,Consulting,US,Female,Bachelors,Experienced hire,5,108510,108950,13840,12300
+Senior consultant,GPS,Consulting,US,Female,Bachelors,Experienced hire,6,105862,107100,15788,12700
+Senior consultant,GPS,Consulting,US,Female,Bachelors,Experienced hire,7,89700,89700,12300,12300
+Senior consultant,GPS,Consulting,US,Female,Bachelors,Experienced hire,8,109238,105300,11950,12300
+Senior consultant,GPS,Consulting,US,Female,MBA,Campus hire,6,103200,103200,33500,33500
+Senior consultant,GPS,Consulting,US,Female,MBA,Experienced hire,4,125100,125100,18000,18000
+Senior consultant,GPS,Consulting,US,Female,MBA,Experienced hire,6,97250,97250,4200,4200
+Senior consultant,GPS,Consulting,US,Female,MBA,Experienced hire,12,98100,98100,8500,8500
+Senior consultant,GPS,Consulting,US,Female,MBA,Experienced hire,14,125000,125000,25000,25000
+Senior consultant,GPS,Consulting,US,Female,MBA,Experienced hire,15,118900,118900,12450,12450
+Senior consultant,GPS,Consulting,US,Female,Master's Degree (non-MBA),Campus hire,1,122000,122000,31500,31500
+Senior consultant,GPS,Consulting,US,Female,Master's Degree (non-MBA),Campus hire,2,133000,133000,20000,20000
+Senior consultant,GPS,Consulting,US,Female,Master's Degree (non-MBA),Campus hire,3,101300,101300,12300,12300
+Senior consultant,GPS,Consulting,US,Female,Master's Degree (non-MBA),Campus hire,4,94400,94400,12300,12300
+Senior consultant,GPS,Consulting,US,Female,Master's Degree (non-MBA),Campus hire,5,108600,110000,15067,12900
+Senior consultant,GPS,Consulting,US,Female,Master's Degree (non-MBA),Campus hire,6,108400,108400,9600,9600
+Senior consultant,GPS,Consulting,US,Female,Master's Degree (non-MBA),Campus hire,7,96300,96300,18000,18000
+Senior consultant,GPS,Consulting,US,Female,Master's Degree (non-MBA),Campus hire,9,113000,113000,12300,12300
+Senior consultant,GPS,Consulting,US,Female,Master's Degree (non-MBA),Campus hire,10,112400,112400,20800,20800
+Senior consultant,GPS,Consulting,US,Female,Master's Degree (non-MBA),Campus hire,12,103000,103000,12900,12900
+Senior consultant,GPS,Consulting,US,Female,Master's Degree (non-MBA),Experienced hire,3,97600,97600,12300,12300
+Senior consultant,GPS,Consulting,US,Female,Master's Degree (non-MBA),Experienced hire,4,105362,103425,17000,15450
+Senior consultant,GPS,Consulting,US,Female,Master's Degree (non-MBA),Experienced hire,5,102267,101400,18900,12900
+Senior consultant,GPS,Consulting,US,Female,Master's Degree (non-MBA),Experienced hire,6,90700,90700,8600,8600
+Senior consultant,GPS,Consulting,US,Female,Master's Degree (non-MBA),Experienced hire,7,110000,110000,19800,19800
+Senior consultant,GPS,Consulting,US,Female,Master's Degree (non-MBA),Experienced hire,8,130900,130900,19100,19100
+Senior consultant,GPS,Consulting,US,Female,Master's Degree (non-MBA),Experienced hire,9,130000,130000,12900,12900
+Senior consultant,GPS,Consulting,US,Female,Master's Degree (non-MBA),Experienced hire,10,107200,107200,11000,11000
+Senior consultant,GPS,Consulting,US,Female,Master's Degree (non-MBA),Experienced hire,15,98200,98200,12300,12300
+Senior consultant,GPS,Consulting,US,Male,Bachelors,Campus hire,4,104700,109500,18920,18000
+Senior consultant,GPS,Consulting,US,Male,Bachelors,Campus hire,5,109262,103850,16588,15650
+Senior consultant,GPS,Consulting,US,Male,Bachelors,Campus hire,6,112533,109650,19083,17650
+Senior consultant,GPS,Consulting,US,Male,Bachelors,Experienced hire,2,103600,103600,13300,13300
+Senior consultant,GPS,Consulting,US,Male,Bachelors,Experienced hire,4,105400,108650,15450,15150
+Senior consultant,GPS,Consulting,US,Male,Bachelors,Experienced hire,5,111400,110000,9900,8600
+Senior consultant,GPS,Consulting,US,Male,Bachelors,Experienced hire,6,120975,116650,17800,19400
+Senior consultant,GPS,Consulting,US,Male,Bachelors,Experienced hire,8,111862,113725,16175,16200
+Senior consultant,GPS,Consulting,US,Male,Bachelors,Experienced hire,9,106467,96200,61600,31500
+Senior consultant,GPS,Consulting,US,Male,Bachelors,Experienced hire,10,114617,123200,11033,11500
+Senior consultant,GPS,Consulting,US,Male,Bachelors,Experienced hire,12,119000,119000,12900,12900
+Senior consultant,GPS,Consulting,US,Male,Bachelors,Experienced hire,14,112400,112400,15000,15000
+Senior consultant,GPS,Consulting,US,Male,MBA,Campus hire,7,104900,104900,15000,15000
+Senior consultant,GPS,Consulting,US,Male,MBA,Campus hire,8,121250,121250,21950,21950
+Senior consultant,GPS,Consulting,US,Male,MBA,Campus hire,10,123800,123800,9700,9700
+Senior consultant,GPS,Consulting,US,Male,MBA,Experienced hire,5,122400,122400,12900,12900
+Senior consultant,GPS,Consulting,US,Male,MBA,Experienced hire,7,115900,115900,31500,31500
+Senior consultant,GPS,Consulting,US,Male,MBA,Experienced hire,9,118200,118200,16200,16200
+Senior consultant,GPS,Consulting,US,Male,MBA,Experienced hire,10,128050,128050,18000,18000
+Senior consultant,GPS,Consulting,US,Male,MBA,Experienced hire,11,110150,110150,19750,19750
+Senior consultant,GPS,Consulting,US,Male,Master's Degree (non-MBA),Campus hire,4,105425,100600,13075,13700
+Senior consultant,GPS,Consulting,US,Male,Master's Degree (non-MBA),Campus hire,6,101650,101650,15150,15150
+Senior consultant,GPS,Consulting,US,Male,Master's Degree (non-MBA),Campus hire,8,90600,90600,11000,11000
+Senior consultant,GPS,Consulting,US,Male,Master's Degree (non-MBA),Experienced hire,4,114100,114100,13850,13850
+Senior consultant,GPS,Consulting,US,Male,Master's Degree (non-MBA),Experienced hire,5,107600,107600,12900,12900
+Senior consultant,GPS,Consulting,US,Male,Master's Degree (non-MBA),Experienced hire,6,106667,109000,12433,12450
+Senior consultant,GPS,Consulting,US,Male,Master's Degree (non-MBA),Experienced hire,9,113000,113000,12900,12900
+Senior consultant,GPS,Consulting,US,Male,Master's Degree (non-MBA),Experienced hire,11,135600,135600,12900,12900
+Senior consultant,GPS,Consulting,US,Male,Master's Degree (non-MBA),Experienced hire,13,129250,112000,7300,7000
+Senior consultant,GPS,Consulting,US,Non-conforming/non-binary,Bachelors,Experienced hire,4,103000,103000,12300,12300
+Senior consultant,GPS,Consulting,US,Prefer not to say,Bachelors,Campus hire,4,106000,106000,13600,13600
+Senior consultant,GPS,Consulting,US,Prefer not to say,Bachelors,Campus hire,6,110500,110500,15000,15000
+Senior consultant,GPS,Consulting,US,Prefer not to say,Bachelors,Experienced hire,6,135000,135000,10000,10000
+Senior consultant,GPS,Consulting,US,Prefer not to say,Bachelors,Experienced hire,8,110500,110500,18000,18000
+Senior consultant,GPS,Consulting,US,Prefer not to say,Bachelors,Experienced hire,9,145000,145000,17500,17500
+Senior consultant,GPS,Consulting,US,Prefer not to say,MBA,Experienced hire,8,128000,128000,0,0
+Senior consultant,GPS,Consulting,US,Prefer not to say,Master's Degree (non-MBA),Campus hire,3,117000,117000,16000,16000
+Senior consultant,GPS,Consulting,US,Prefer not to say,Master's Degree (non-MBA),Campus hire,6,132000,132000,20800,20800
+Senior consultant,GPS,Consulting,US,Prefer not to say,Master's Degree (non-MBA),Experienced hire,6,99300,99300,5600,5600
+Senior consultant,GPS,Consulting,US,Prefer not to say,Master's Degree (non-MBA),Experienced hire,7,120000,120000,20800,20800
+Senior consultant,GPS,Consulting,US,Prefer not to say,Master's Degree (non-MBA),Experienced hire,10,120000,120000,20000,20000
+Senior consultant,GPS,Services,US,Male,Bachelors,Experienced hire,10,111400,111400,0,0
+Senior consultant,Not applicable,Advisory,US,Female,Master's Degree (non-MBA),Campus hire,2,81560,81560,0,0
+Senior consultant,Not applicable,Advisory,US,Prefer not to say,MBA,Experienced hire,4,82000,82000,0,0
+Senior consultant,Not applicable,Consulting,Canada,Male,Master's Degree (non-MBA),Experienced hire,5,78500,78500,0,0
+Senior consultant,Not applicable,Consulting,US,Male,Bachelors,Experienced hire,6,144000,144000,6800,6800
+Senior consultant,Not applicable,Consulting,US,Male,Bachelors,Experienced hire,7,122700,122700,14200,14200
+Senior consultant,Not applicable,Consulting,US,Male,MBA,Experienced hire,15,123500,123500,18000,18000
+Senior consultant,Not applicable,Consulting,US,Prefer not to say,Master's Degree (non-MBA),Experienced hire,15,100000,100000,0,0
+Senior consultant,Not applicable,Services,US,Male,Bachelors,Experienced hire,9,123600,123600,7000,7000
+Senior consultant,Not applicable,Tax,US,Male,Bachelors,Campus hire,4,94000,94000,10000,10000
+Senior consultant,Not applicable,Tax,US,Male,Master's Degree (non-MBA),Experienced hire,6,109000,109000,10000,10000
+Senior manager,Commercial,Advisory,US,Female,MBA,Campus hire,12,220000,220000,65000,65000
+Senior manager,Commercial,Advisory,US,Female,MBA,Experienced hire,16,194000,194000,14000,14000
+Senior manager,Commercial,Advisory,US,Male,Bachelors,Campus hire,10,171000,171000,32000,32000
+Senior manager,Commercial,Advisory,US,Male,Bachelors,Experienced hire,12,186000,186000,19000,19000
+Senior manager,Commercial,Advisory,US,Male,Bachelors,Experienced hire,13,173750,173750,10000,10000
+Senior manager,Commercial,Advisory,US,Male,MBA,Campus hire,12,205500,205500,63000,63000
+Senior manager,Commercial,Advisory,US,Male,Master's Degree (non-MBA),Experienced hire,12,174000,174000,21250,21250
+Senior manager,Commercial,Advisory,US,Male,Master's Degree (non-MBA),Experienced hire,15,226500,226500,37500,37500
+Senior manager,Commercial,Consulting,Canada,Male,Bachelors,Experienced hire,18,155000,155000,12000,12000
+Senior manager,Commercial,Consulting,US,Female,Bachelors,Campus hire,11,175900,175900,105800,105800
+Senior manager,Commercial,Consulting,US,Female,Bachelors,Campus hire,12,201800,201800,28700,28700
+Senior manager,Commercial,Consulting,US,Female,Bachelors,Experienced hire,6,213000,213000,43000,43000
+Senior manager,Commercial,Consulting,US,Female,Bachelors,Experienced hire,8,175700,175700,52200,52200
+Senior manager,Commercial,Consulting,US,Female,Bachelors,Experienced hire,10,225000,225000,60500,60500
+Senior manager,Commercial,Consulting,US,Female,Bachelors,Experienced hire,12,182450,182450,53500,53500
+Senior manager,Commercial,Consulting,US,Female,Bachelors,Experienced hire,14,220000,220000,41100,41100
+Senior manager,Commercial,Consulting,US,Female,Bachelors,Experienced hire,16,225000,225000,15500,15500
+Senior manager,Commercial,Consulting,US,Female,Bachelors,Experienced hire,20,187300,187300,34600,34600
+Senior manager,Commercial,Consulting,US,Female,Bachelors,Experienced hire,23,220000,220000,45000,45000
+Senior manager,Commercial,Consulting,US,Female,Bachelors,Experienced hire,25,272000,272000,52000,52000
+Senior manager,Commercial,Consulting,US,Female,Bachelors,Experienced hire,27,190000,190000,32000,32000
+Senior manager,Commercial,Consulting,US,Female,MBA,Campus hire,10,234200,234200,86750,86750
+Senior manager,Commercial,Consulting,US,Female,MBA,Campus hire,11,210650,210650,67350,67350
+Senior manager,Commercial,Consulting,US,Female,MBA,Campus hire,12,193100,193100,47100,47100
+Senior manager,Commercial,Consulting,US,Female,MBA,Campus hire,13,245000,245000,100000,100000
+Senior manager,Commercial,Consulting,US,Female,MBA,Campus hire,16,246100,246100,72500,72500
+Senior manager,Commercial,Consulting,US,Female,MBA,Experienced hire,3,224000,224000,72500,72500
+Senior manager,Commercial,Consulting,US,Female,MBA,Experienced hire,12,191150,191150,44800,44800
+Senior manager,Commercial,Consulting,US,Female,MBA,Experienced hire,13,261000,261000,61000,61000
+Senior manager,Commercial,Consulting,US,Female,MBA,Experienced hire,14,210000,210000,40000,40000
+Senior manager,Commercial,Consulting,US,Female,MBA,Experienced hire,15,202900,202900,34600,34600
+Senior manager,Commercial,Consulting,US,Female,MBA,Experienced hire,18,229000,229000,100000,100000
+Senior manager,Commercial,Consulting,US,Female,MBA,Experienced hire,19,207500,207500,60000,60000
+Senior manager,Commercial,Consulting,US,Female,MBA,Experienced hire,25,185000,185000,44000,44000
+Senior manager,Commercial,Consulting,US,Female,Master's Degree (non-MBA),Campus hire,12,218900,218900,57300,57300
+Senior manager,Commercial,Consulting,US,Female,Master's Degree (non-MBA),Campus hire,14,178000,178000,25000,25000
+Senior manager,Commercial,Consulting,US,Female,Master's Degree (non-MBA),Experienced hire,8,246500,246500,59600,59600
+Senior manager,Commercial,Consulting,US,Female,Master's Degree (non-MBA),Experienced hire,9,233000,233000,63700,63700
+Senior manager,Commercial,Consulting,US,Female,Master's Degree (non-MBA),Experienced hire,14,274500,274500,58000,58000
+Senior manager,Commercial,Consulting,US,Female,Master's Degree (non-MBA),Experienced hire,15,191000,191000,41000,41000
+Senior manager,Commercial,Consulting,US,Female,Master's Degree (non-MBA),Experienced hire,16,269600,269600,90000,90000
+Senior manager,Commercial,Consulting,US,Female,Master's Degree (non-MBA),Experienced hire,20,206400,206400,40000,40000
+Senior manager,Commercial,Consulting,US,Male,Bachelors,Campus hire,10,176300,176300,40000,40000
+Senior manager,Commercial,Consulting,US,Male,Bachelors,Campus hire,11,178800,178800,52200,52200
+Senior manager,Commercial,Consulting,US,Male,Bachelors,Campus hire,12,185500,188100,37000,36000
+Senior manager,Commercial,Consulting,US,Male,Bachelors,Campus hire,14,192400,192400,55950,55950
+Senior manager,Commercial,Consulting,US,Male,Bachelors,Campus hire,16,210800,210800,32600,32600
+Senior manager,Commercial,Consulting,US,Male,Bachelors,Experienced hire,8,191000,191000,53600,53600
+Senior manager,Commercial,Consulting,US,Male,Bachelors,Experienced hire,10,185900,185900,48400,48400
+Senior manager,Commercial,Consulting,US,Male,Bachelors,Experienced hire,11,175600,175600,59600,59600
+Senior manager,Commercial,Consulting,US,Male,Bachelors,Experienced hire,12,222000,222000,48300,48300
+Senior manager,Commercial,Consulting,US,Male,Bachelors,Experienced hire,13,204000,204000,85500,85500
+Senior manager,Commercial,Consulting,US,Male,Bachelors,Experienced hire,14,173000,173000,147500,147500
+Senior manager,Commercial,Consulting,US,Male,Bachelors,Experienced hire,15,183900,183900,60250,60250
+Senior manager,Commercial,Consulting,US,Male,Bachelors,Experienced hire,17,215300,227500,61880,60400
+Senior manager,Commercial,Consulting,US,Male,Bachelors,Experienced hire,18,221700,221700,56100,56100
+Senior manager,Commercial,Consulting,US,Male,Bachelors,Experienced hire,20,222771,226600,49857,60000
+Senior manager,Commercial,Consulting,US,Male,Bachelors,Experienced hire,21,240000,240000,42150,42150
+Senior manager,Commercial,Consulting,US,Male,Bachelors,Experienced hire,23,199000,199000,37500,37500
+Senior manager,Commercial,Consulting,US,Male,Bachelors,Experienced hire,25,268800,268800,0,0
+Senior manager,Commercial,Consulting,US,Male,Bachelors,Experienced hire,28,259000,259000,37000,37000
+Senior manager,Commercial,Consulting,US,Male,Bachelors,Experienced hire,30,223700,223700,41100,41100
+Senior manager,Commercial,Consulting,US,Male,Bachelors,Experienced hire,32,266000,266000,72500,72500
+Senior manager,Commercial,Consulting,US,Male,MBA,Campus hire,7,243300,243300,116800,116800
+Senior manager,Commercial,Consulting,US,Male,MBA,Campus hire,9,215800,215800,57000,57000
+Senior manager,Commercial,Consulting,US,Male,MBA,Campus hire,10,188000,188000,35000,35000
+Senior manager,Commercial,Consulting,US,Male,MBA,Campus hire,11,202400,202400,83400,83400
+Senior manager,Commercial,Consulting,US,Male,MBA,Campus hire,12,206467,200000,52233,39000
+Senior manager,Commercial,Consulting,US,Male,MBA,Campus hire,13,224800,224800,57900,57900
+Senior manager,Commercial,Consulting,US,Male,MBA,Campus hire,14,217000,217000,50000,50000
+Senior manager,Commercial,Consulting,US,Male,MBA,Campus hire,15,200000,200000,52000,52000
+Senior manager,Commercial,Consulting,US,Male,MBA,Experienced hire,10,216333,200000,40833,50000
+Senior manager,Commercial,Consulting,US,Male,MBA,Experienced hire,11,204000,204000,67900,67900
+Senior manager,Commercial,Consulting,US,Male,MBA,Experienced hire,12,236000,236000,70000,70000
+Senior manager,Commercial,Consulting,US,Male,MBA,Experienced hire,13,179600,179600,38000,38000
+Senior manager,Commercial,Consulting,US,Male,MBA,Experienced hire,15,218600,218000,69800,50000
+Senior manager,Commercial,Consulting,US,Male,MBA,Experienced hire,18,219500,219500,87000,87000
+Senior manager,Commercial,Consulting,US,Male,MBA,Experienced hire,20,222050,222050,51000,51000
+Senior manager,Commercial,Consulting,US,Male,MBA,Experienced hire,21,220000,220000,60000,60000
+Senior manager,Commercial,Consulting,US,Male,MBA,Experienced hire,24,225800,225800,51250,51250
+Senior manager,Commercial,Consulting,US,Male,MBA,Experienced hire,30,267000,267000,47000,47000
+Senior manager,Commercial,Consulting,US,Male,Master's Degree (non-MBA),Campus hire,10,238700,238700,95200,95200
+Senior manager,Commercial,Consulting,US,Male,Master's Degree (non-MBA),Campus hire,11,190000,190000,35000,35000
+Senior manager,Commercial,Consulting,US,Male,Master's Degree (non-MBA),Campus hire,12,178000,178000,40000,40000
+Senior manager,Commercial,Consulting,US,Male,Master's Degree (non-MBA),Campus hire,15,230000,230000,23000,23000
+Senior manager,Commercial,Consulting,US,Male,Master's Degree (non-MBA),Campus hire,16,213000,213000,54000,54000
+Senior manager,Commercial,Consulting,US,Male,Master's Degree (non-MBA),Experienced hire,4,211800,211800,62800,62800
+Senior manager,Commercial,Consulting,US,Male,Master's Degree (non-MBA),Experienced hire,6,268000,268000,150000,150000
+Senior manager,Commercial,Consulting,US,Male,Master's Degree (non-MBA),Experienced hire,9,196500,196500,35500,35500
+Senior manager,Commercial,Consulting,US,Male,Master's Degree (non-MBA),Experienced hire,10,222500,222500,58250,58250
+Senior manager,Commercial,Consulting,US,Male,Master's Degree (non-MBA),Experienced hire,12,232000,232000,52000,52000
+Senior manager,Commercial,Consulting,US,Male,Master's Degree (non-MBA),Experienced hire,13,183000,183000,41500,41500
+Senior manager,Commercial,Consulting,US,Male,Master's Degree (non-MBA),Experienced hire,15,231900,216900,43575,42650
+Senior manager,Commercial,Consulting,US,Male,Master's Degree (non-MBA),Experienced hire,17,250000,250000,70000,70000
+Senior manager,Commercial,Consulting,US,Male,Master's Degree (non-MBA),Experienced hire,18,194000,194000,47800,47800
+Senior manager,Commercial,Consulting,US,Male,Master's Degree (non-MBA),Experienced hire,20,200000,200000,52000,52000
+Senior manager,Commercial,Consulting,US,Prefer not to say,Bachelors,Campus hire,15,210600,210600,83400,83400
+Senior manager,Commercial,Consulting,US,Prefer not to say,Bachelors,Experienced hire,4,240000,240000,48800,48800
+Senior manager,Commercial,Consulting,US,Prefer not to say,Bachelors,Experienced hire,10,180000,180000,30000,30000
+Senior manager,Commercial,Consulting,US,Prefer not to say,Bachelors,Experienced hire,15,201000,201000,76500,76500
+Senior manager,Commercial,Consulting,US,Prefer not to say,Bachelors,Experienced hire,16,210000,210000,35650,35650
+Senior manager,Commercial,Consulting,US,Prefer not to say,Bachelors,Experienced hire,18,230000,230000,40500,40500
+Senior manager,Commercial,Consulting,US,Prefer not to say,Bachelors,Experienced hire,19,171000,171000,31000,31000
+Senior manager,Commercial,Consulting,US,Prefer not to say,Doctorate,Experienced hire,15,294000,294000,90000,90000
+Senior manager,Commercial,Consulting,US,Prefer not to say,MBA,Campus hire,10,204000,204000,78000,78000
+Senior manager,Commercial,Consulting,US,Prefer not to say,MBA,Campus hire,12,200000,200000,80000,80000
+Senior manager,Commercial,Consulting,US,Prefer not to say,MBA,Campus hire,13,212000,212000,59000,59000
+Senior manager,Commercial,Consulting,US,Prefer not to say,MBA,Experienced hire,10,190000,190000,47500,47500
+Senior manager,Commercial,Consulting,US,Prefer not to say,MBA,Experienced hire,11,197000,197000,57000,57000
+Senior manager,Commercial,Consulting,US,Prefer not to say,MBA,Experienced hire,13,214700,214700,44300,44300
+Senior manager,Commercial,Consulting,US,Prefer not to say,MBA,Experienced hire,15,225000,225000,65000,65000
+Senior manager,Commercial,Consulting,US,Prefer not to say,MBA,Experienced hire,20,191700,191700,31100,31100
+Senior manager,Commercial,Consulting,US,Prefer not to say,Master's Degree (non-MBA),Campus hire,6,204000,204000,78100,78100
+Senior manager,Commercial,Consulting,US,Prefer not to say,Master's Degree (non-MBA),Campus hire,12,230000,230000,80000,80000
+Senior manager,Commercial,Consulting,US,Prefer not to say,Master's Degree (non-MBA),Campus hire,14,200000,200000,40000,40000
+Senior manager,Commercial,Consulting,US,Prefer not to say,Master's Degree (non-MBA),Campus hire,15,148000,148000,10000,10000
+Senior manager,Commercial,Consulting,US,Prefer not to say,Master's Degree (non-MBA),Experienced hire,8,190000,190000,35000,35000
+Senior manager,Commercial,Consulting,US,Prefer not to say,Master's Degree (non-MBA),Experienced hire,10,190000,190000,41800,41800
+Senior manager,Commercial,Consulting,US,Prefer not to say,Master's Degree (non-MBA),Experienced hire,12,176000,176000,55000,55000
+Senior manager,Commercial,Consulting,US,Prefer not to say,Master's Degree (non-MBA),Experienced hire,14,268000,268000,90000,90000
+Senior manager,Commercial,Consulting,US,Prefer not to say,Master's Degree (non-MBA),Experienced hire,15,180000,180000,52000,52000
+Senior manager,Commercial,Consulting,US,Prefer not to say,Master's Degree (non-MBA),Experienced hire,17,209100,209100,118000,118000
+Senior manager,Commercial,Consulting,US,Prefer not to say,Master's Degree (non-MBA),Experienced hire,25,195000,195000,31200,31200
+Senior manager,Commercial,Services,US,Female,MBA,Campus hire,6,164000,164000,22000,22000
+Senior manager,Commercial,Services,US,Male,Bachelors,Experienced hire,15,186000,186000,20000,20000
+Senior manager,Commercial,Services,US,Male,Master's Degree (non-MBA),Experienced hire,12,158000,158000,20800,20800
+Senior manager,Commercial,Tax,US,Prefer not to say,Master's Degree (non-MBA),Experienced hire,3,148000,148000,15000,15000
+Senior manager,GPS,Advisory,US,Female,Bachelors,Experienced hire,15,182900,182900,25000,25000
+Senior manager,GPS,Advisory,US,Female,Master's Degree (non-MBA),Experienced hire,11,183000,183000,25000,25000
+Senior manager,GPS,Advisory,US,Male,Bachelors,Experienced hire,10,165000,165000,25000,25000
+Senior manager,GPS,Advisory,US,Male,Bachelors,Experienced hire,13,163900,163900,42000,42000
+Senior manager,GPS,Advisory,US,Male,Bachelors,Experienced hire,18,204500,204500,22000,22000
+Senior manager,GPS,Advisory,US,Male,MBA,Experienced hire,15,189000,189000,25000,25000
+Senior manager,GPS,Advisory,US,Male,Master's Degree (non-MBA),Experienced hire,15,205166,205166,36000,36000
+Senior manager,GPS,Consulting,US,Female,Bachelors,Campus hire,10,168000,168000,26000,26000
+Senior manager,GPS,Consulting,US,Female,Bachelors,Campus hire,18,205000,205000,52000,52000
+Senior manager,GPS,Consulting,US,Female,Bachelors,Experienced hire,8,190300,190300,51800,51800
+Senior manager,GPS,Consulting,US,Female,Bachelors,Experienced hire,12,161100,161100,31100,31100
+Senior manager,GPS,Consulting,US,Female,Bachelors,Experienced hire,15,186000,186000,51800,51800
+Senior manager,GPS,Consulting,US,Female,Bachelors,Experienced hire,18,167000,167000,52200,52200
+Senior manager,GPS,Consulting,US,Female,Bachelors,Experienced hire,35,256000,256000,31000,31000
+Senior manager,GPS,Consulting,US,Female,Doctorate,Experienced hire,22,222000,222000,83600,83600
+Senior manager,GPS,Consulting,US,Female,MBA,Campus hire,10,151404,151404,52200,52200
+Senior manager,GPS,Consulting,US,Female,MBA,Experienced hire,11,152000,152000,52200,52200
+Senior manager,GPS,Consulting,US,Female,MBA,Experienced hire,16,245000,245000,42500,42500
+Senior manager,GPS,Consulting,US,Female,MBA,Experienced hire,18,211100,211100,66700,66700
+Senior manager,GPS,Consulting,US,Female,MBA,Experienced hire,20,184100,184100,33300,33300
+Senior manager,GPS,Consulting,US,Female,Master's Degree (non-MBA),Campus hire,10,155500,155500,34500,34500
+Senior manager,GPS,Consulting,US,Female,Master's Degree (non-MBA),Campus hire,11,173155,173155,51300,51300
+Senior manager,GPS,Consulting,US,Female,Master's Degree (non-MBA),Campus hire,13,165700,165700,57100,57100
+Senior manager,GPS,Consulting,US,Female,Master's Degree (non-MBA),Campus hire,18,204000,204000,34000,34000
+Senior manager,GPS,Consulting,US,Female,Master's Degree (non-MBA),Experienced hire,9,180000,180000,52000,52000
+Senior manager,GPS,Consulting,US,Female,Master's Degree (non-MBA),Experienced hire,10,180000,180000,33100,33100
+Senior manager,GPS,Consulting,US,Female,Master's Degree (non-MBA),Experienced hire,11,156700,156700,23000,23000
+Senior manager,GPS,Consulting,US,Female,Master's Degree (non-MBA),Experienced hire,13,192500,192500,31600,31600
+Senior manager,GPS,Consulting,US,Female,Master's Degree (non-MBA),Experienced hire,19,160300,160300,31500,31500
+Senior manager,GPS,Consulting,US,Female,Master's Degree (non-MBA),Experienced hire,22,1670000,1670000,40000,40000
+Senior manager,GPS,Consulting,US,Male,Bachelors,Experienced hire,13,164850,164850,31100,31100
+Senior manager,GPS,Consulting,US,Male,Bachelors,Experienced hire,14,157600,157600,35050,35050
+Senior manager,GPS,Consulting,US,Male,Bachelors,Experienced hire,15,171000,171000,51800,51800
+Senior manager,GPS,Consulting,US,Male,Bachelors,Experienced hire,18,189500,189500,33000,33000
+Senior manager,GPS,Consulting,US,Male,Bachelors,Experienced hire,22,192200,192200,34600,34600
+Senior manager,GPS,Consulting,US,Male,Bachelors,Experienced hire,25,236500,236500,34700,34700
+Senior manager,GPS,Consulting,US,Male,Doctorate,Experienced hire,15,171950,171950,33050,33050
+Senior manager,GPS,Consulting,US,Male,High School,Experienced hire,16,148000,148000,11900,11900
+Senior manager,GPS,Consulting,US,Male,MBA,Campus hire,13,243000,243000,85000,85000
+Senior manager,GPS,Consulting,US,Male,MBA,Experienced hire,12,162300,162300,52200,52200
+Senior manager,GPS,Consulting,US,Male,Master's Degree (non-MBA),Campus hire,8,163500,163500,52500,52500
+Senior manager,GPS,Consulting,US,Male,Master's Degree (non-MBA),Experienced hire,13,182000,182000,84000,84000
+Senior manager,GPS,Consulting,US,Prefer not to say,Bachelors,Experienced hire,12,230000,230000,25000,25000
+Senior manager,GPS,Consulting,US,Prefer not to say,Bachelors,Experienced hire,20,190000,190000,30000,30000
+Senior manager,GPS,Consulting,US,Prefer not to say,MBA,Experienced hire,11,167600,167600,52200,52200
+Senior manager,GPS,Consulting,US,Prefer not to say,Master's Degree (non-MBA),Experienced hire,10,159300,159300,52000,52000
+Senior manager,GPS,Consulting,US,Prefer not to say,Master's Degree (non-MBA),Experienced hire,11,145000,145000,34600,34600
+Senior manager,GPS,Consulting,US,Prefer not to say,Master's Degree (non-MBA),Experienced hire,12,173400,173400,51800,51800
+Senior manager,GPS,Consulting,US,Prefer not to say,Master's Degree (non-MBA),Experienced hire,20,194000,194000,42000,42000
+Senior manager,Not applicable,Audit,US,Female,Bachelors,Experienced hire,12,170600,170600,25200,25200
+Senior manager,Not applicable,Audit,US,Prefer not to say,Bachelors,Campus hire,12,158000,158000,18500,18500
+Senior manager,Not applicable,Audit,US,Prefer not to say,Bachelors,Experienced hire,20,205000,205000,23000,23000
+Senior manager,Not applicable,Consulting,US,Female,Master's Degree (non-MBA),Experienced hire,17,175000,175000,9500,9500
+Senior manager,Not applicable,Deloitte Global (DTTL),Deloitte Global,Female,Bachelors,Experienced hire,13,145300,145300,0,0
+Senior manager,Not applicable,Deloitte Global (DTTL),US,Female,Bachelors,Experienced hire,29,169000,169000,19000,19000
+Senior manager,Not applicable,Services,US,Female,Bachelors,Experienced hire,12,165000,165000,2500,2500
+Senior manager,Not applicable,Services,US,Female,Master's Degree (non-MBA),Experienced hire,12,165000,165000,6500,6500
+Senior manager,Not applicable,Services,US,Female,Master's Degree (non-MBA),Experienced hire,15,170000,170000,5000,5000
+Senior manager,Not applicable,Services,US,Female,Master's Degree (non-MBA),Experienced hire,25,153600,153600,7200,7200
+Senior manager,Not applicable,Services,US,Male,Bachelors,Campus hire,14,141400,141400,11900,11900
+Senior manager,Not applicable,Services,US,Male,Bachelors,Experienced hire,21,154000,154000,19000,19000
+Senior manager,Not applicable,Services,US,Male,Master's Degree (non-MBA),Experienced hire,15,171200,171200,13500,13500
+Senior manager,Not applicable,Services,US,Prefer not to say,Bachelors,Experienced hire,15,160000,160000,9000,9000
+Senior manager,Not applicable,Services,US,Prefer not to say,MBA,Campus hire,15,200500,200500,19000,19000
+Senior manager,Not applicable,Tax,US,Female,Bachelors,Campus hire,9,170000,170000,27000,27000
+Senior manager,Not applicable,Tax,US,Female,Bachelors,Experienced hire,12,183200,183200,20000,20000
+Senior manager,Not applicable,Tax,US,Female,Master's Degree (non-MBA),Experienced hire,16,210000,210000,11000,11000
+Senior manager,Not applicable,Tax,US,Male,Bachelors,Campus hire,10,133000,133000,18000,18000
+Senior manager,Not applicable,Tax,US,Male,Master's Degree (non-MBA),Campus hire,8,127000,127000,17500,17500
