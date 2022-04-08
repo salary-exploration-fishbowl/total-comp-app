@@ -104,6 +104,8 @@ This website reports total compensation based on level, global business, sector,
             column_one.plotly_chart(salary_distribution, use_container_width = True)
             column_two.plotly_chart(aip_distribution, use_container_width = True)
             column_three.plotly_chart(aip_percent_distribution, use_container_width = True)
+            
+            st.table(df_salary_input.describe())
 
         except: 
             st.markdown('''### You caught an error! Please ensure you only selected one checkbox option for total years of experience.''')
@@ -118,11 +120,11 @@ This website reports total compensation based on level, global business, sector,
             column_one.plotly_chart(salary_distribution, use_container_width = True)
             column_two.plotly_chart(aip_distribution, use_container_width = True)
             column_three.plotly_chart(aip_percent_distribution, use_container_width = True)
+            
+            st.table(df_salary_input.describe())
 
         except: 
             st.markdown('''### You caught an error!''')
-    
-     st.table(df_salary_input.describe())
 
 if __name__ == '__main__':
     main()
