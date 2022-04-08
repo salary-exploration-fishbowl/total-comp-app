@@ -27,7 +27,6 @@ This website reports total compensation based on level, global business, sector,
     container.title('About')
     container.info('This website is meant for educational purposes only, as the Bowl has been filled with total compensation questions recently.')
     st.subheader('Data Table')
-    st.table(df_salary_input.describe())
 
     select_some_years = container.checkbox("Would you like to select a YOE range for the plots?")
 
@@ -122,6 +121,8 @@ This website reports total compensation based on level, global business, sector,
 
         except: 
             st.markdown('''### You caught an error!''')
+    
+     st.table(df_salary_input.describe())
 
 if __name__ == '__main__':
     main()
