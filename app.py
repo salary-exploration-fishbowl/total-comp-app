@@ -6,13 +6,30 @@ import streamlit as st
 import numpy as np
 import plotly.express as px
 
+st.set_page_config(layout = 'wide')
+
 @st.cache
 def load_data():
-    df_salary_input = pd.read_csv("https://raw.githubusercontent.com/salary-exploration-fishbowl/total-comp-app/main/salary_info.csv")
+    df_salary_input = pd.read_csv("https://raw.githubusercontent.com/salary-exploration-fishbowl/total-comp-app/main/salary_cleaned.csv")
     return df_salary_input
 
 def main(): 
     df_salary_input = load_data()
+
+    st.header("Total Compensation: Aggregate Analysis from Fishbowl Survey")
+    st.markdown('''##### Please DM the author of the original post linking to this website for feature requests or troubleshooting.  
+    
+This website reports total compensation based on level, global business, sector, gender, member firm, educational attainment, and total years of experience. The data reported below were sourced from the total compensation survey posted to a *certain* Bowl on Fishbowl.   The raw data can be accessed [here](https://docs.google.com/spreadsheets/d/1HfsaGWobDNaqua6wlQfqB0SOQYrJA5s0xMz7eZDSIrE/edit#gid=1369497600). The data presented in the charts below report the distribution of salary, AIP, and % AIP based on user inputs. Practitioners can explore the data using the filters in the panel. Additionally, summary statistics are presented in the Data Table below. ''')
+
+    column_one, column_two, column_three = st.columns(3)
+
+    container = st.sidebar.container()
+    container.title('About')
+    container.info('This website is meant for educational purposes only, as the Bowl has been filled with total compensation questions recently.')
+    st.subheader('Data Table')
+    st.table(df_salary_input.describe())
+
+    select_some_years = container.checkbox("Would you like to select a YOE range for the plots?")
 
     level = list(df_salary_input.LEVEL.sort_values().unique())
     sector = list(df_salary_input.SECTOR.sort_values().unique())
@@ -21,50 +38,90 @@ def main():
     gender = list(df_salary_input.GENDER.sort_values().unique())
     education = list(df_salary_input.EDUCATION.sort_values().unique())
     source = list(df_salary_input.HIRE_SOURCE.sort_values().unique())
-    yoe = list(df_salary_input.TOTAL_YOE.sort_values().unique())
-    
-    st.header("Total Compensation: Aggregate Analysis from Fishbowl Survey")
-    st.markdown('''##### Please DM the author of the original post linking to this website for feature requests or troubleshooting.  
-    
-This website reports average practitioner total compensation based on level, global business, sector, gender, member firm, educational attainment, and total years of experience. The data reported below were sourced from the total compensation survey posted to a *certain* Bowl on Fishbowl.   The raw data can be accessed [here](https://docs.google.com/spreadsheets/d/1b15fEbCLaTxN_SCiYn7RX9aglDpTEkNbBjJ-XL_68ZA/edit#gid=37692271).  The data were pre-processsed to calculate average salary and average AIP based on the data elements noted above. 
 
-Practitioners can explore the data using the filters in the panel. **The metrics will not populate until you've selected a value for level, sector, global business, member firm, gender, education, hire source, and years of experience -- and then hit *Submit*.**  
+    level.insert(0, 'All')
+    sector.insert(0, 'All')
+    business.insert(0, 'All')
+    firm.insert(0, 'All')
+    gender.insert(0, 'All')
+    education.insert(0, 'All')
+    source.insert(0, 'All')
 
-If you submit data for which there is no reference the site will return an error in the space below, asking you to try again. ''')
-
-    def get_data():
-        place_holder = pd.DataFrame(columns = list(df_salary_input.columns))
-        return place_holder
-
-    form = st.sidebar.form(key = 'salary_analysis_form')
     st.sidebar.subheader("Data Elements for Analysis")
-    select_level = st.sidebar.selectbox('Level', level)
+    select_level = st.sidebar.selectbox('Level:', level)
+    if select_level == 'All': 
+        df_salary_input = df_salary_input
+    else: 
+        df_salary_input = df_salary_input.loc[df_salary_input.LEVEL.apply(lambda x: x in select_level)]
+
     select_sector = st.sidebar.selectbox('Sector', sector)
+    if select_sector == 'All': 
+        df_salary_input = df_salary_input
+    else: 
+        df_salary_input = df_salary_input.loc[df_salary_input.SECTOR.apply(lambda x: x in select_sector)]
+
     select_business = st.sidebar.selectbox('Global Business', business)
+    if select_business == 'All': 
+        df_salary_input = df_salary_input
+    else: 
+        df_salary_input = df_salary_input.loc[df_salary_input.GLOBAL_BUSINESS.apply(lambda x: x in select_business)]
+
     select_firm = st.sidebar.selectbox('Member Firm', firm)
+    if select_firm == 'All': 
+        df_salary_input = df_salary_input
+    else: 
+        df_salary_input = df_salary_input.loc[df_salary_input.MEMBER_FIRM.apply(lambda x: x in select_firm)]
+
     select_gender = st.sidebar.selectbox('Gender', gender)
+    if select_gender == 'All': 
+        df_salary_input = df_salary_input
+    else: 
+        df_salary_input = df_salary_input.loc[df_salary_input.GENDER.apply(lambda x: x in select_gender)]
+
     select_education = st.sidebar.selectbox('Education', education)
+    if select_education == 'All': 
+        df_salary_input = df_salary_input
+    else: 
+        df_salary_input = df_salary_input.loc[df_salary_input.EDUCATION.apply(lambda x: x in select_education)]
+
     select_source = st.sidebar.selectbox('Hire Source', source)
-    select_yoe = st.sidebar.slider('Years of Experience', min_value = 0, max_value = 35)
-    if form.form_submit_button("Submit"): 
+    if select_source == 'All': 
+        df_salary_input = df_salary_input
+    else: 
+        df_salary_input = df_salary_input.loc[df_salary_input.HIRE_SOURCE.apply(lambda x: x in select_source)]
+
+    if select_some_years:
+        start_yoe, end_yoe = container.select_slider('Select range of YOE:', options = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35], value = [0, 35])
+        start_yoe = int(start_yoe)
+        end_yoe = int(end_yoe)
+
+        df_salary_input = df_salary_input.loc[df_salary_input.TOTAL_YOE.between(start_yoe, end_yoe)]
+
         try: 
-            df_analysis = get_data().append({"LEVEL": select_level, "SECTOR": select_sector, "GLOBAL_BUSINESS": select_business, "MEMBER_FIRM": select_firm, "GENDER": select_gender, "EDUCATION": select_education, "HIRE_SOURCE": select_source, "TOTAL_YOE": select_yoe}, ignore_index = True)
+            salary_distribution = px.histogram(df_salary_input, x = 'SALARY').update_yaxes(visible = False)
+            aip_distribution = px.histogram(df_salary_input, x = 'AIP').update_yaxes(visible = False)
+            aip_percent_distribution = px.histogram(df_salary_input, x = 'AIP_PERCENT').update_yaxes(visible = False)
 
-            df_salary_input_copy = df_salary_input.copy()
-            df_salary_input_analysis_helper = pd.concat([df_salary_input_copy, df_analysis], axis = 0, ignore_index=True)
-            df_salary_input_analysis = df_salary_input_analysis_helper[df_salary_input_analysis_helper.duplicated(subset = ['LEVEL', 'SECTOR', 'GLOBAL_BUSINESS', 'MEMBER_FIRM', 'GENDER', 'EDUCATION', 'HIRE_SOURCE', 'TOTAL_YOE'], keep = False)]
-            df_salary_input_analysis = df_salary_input_analysis.drop_duplicates(subset = ['LEVEL', 'SECTOR', 'GLOBAL_BUSINESS', 'MEMBER_FIRM', 'GENDER', 'EDUCATION', 'HIRE_SOURCE', 'TOTAL_YOE'])
-
-            st.subheader('Total Compensation Metrics')
-            average_salary_metric, median_salary_metric, average_aip_metric, median_aip_metric = st.columns(4)
-            average_salary_metric.metric('Average Salary', value = df_salary_input_analysis.AVERAGE_SALARY)
-            average_aip_metric.metric('Average AIP', value = df_salary_input_analysis.AVERAGE_AIP)
+            column_one.plotly_chart(salary_distribution, use_container_width = True)
+            column_two.plotly_chart(aip_distribution, use_container_width = True)
+            column_three.plotly_chart(aip_percent_distribution, use_container_width = True)
 
         except: 
-            st.markdown('''### You input a combination of values for which the database does not have a reference. Please, try again.''')
+            st.markdown('''### You caught an error! Please ensure you only selected one checkbox option for total years of experience.''')
 
-        st.sidebar.title('About')
-        st.sidebar.info('This website is meant for educational purposes only, as the Bowl has been filled with total compensation questions recently.')
+    else: 
+        #df_salary_input = df_salary_input
+        try: 
+            salary_distribution = px.histogram(df_salary_input, x = 'SALARY').update_yaxes(visible = False)
+            aip_distribution = px.histogram(df_salary_input, x = 'AIP').update_yaxes(visible = False)
+            aip_percent_distribution = px.histogram(df_salary_input, x = 'AIP_PERCENT').update_yaxes(visible = False)
+
+            column_one.plotly_chart(salary_distribution, use_container_width = True)
+            column_two.plotly_chart(aip_distribution, use_container_width = True)
+            column_three.plotly_chart(aip_percent_distribution, use_container_width = True)
+
+        except: 
+            st.markdown('''### You caught an error!''')
 
 if __name__ == '__main__':
     main()
