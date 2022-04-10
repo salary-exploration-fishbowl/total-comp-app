@@ -108,10 +108,9 @@ This website reports total compensation based on level, global business, sector,
             st.table(df_salary_input.describe())
 
         except: 
-            st.markdown('''### You caught an error! Please ensure you only selected one checkbox option for total years of experience.''')
+            st.markdown('''### You caught an error!''')
 
     else: 
-        #df_salary_input = df_salary_input
         try: 
             salary_distribution = px.histogram(df_salary_input, x = 'SALARY').update_yaxes(visible = False)
             aip_distribution = px.histogram(df_salary_input, x = 'AIP').update_yaxes(visible = False)
