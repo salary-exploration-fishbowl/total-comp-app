@@ -1,35 +1,46 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+# Import Python libraries
 import pandas as pd
 import streamlit as st
 import numpy as np
 import plotly.express as px
 
+# Configure the Streamlit page to be a wide view
 st.set_page_config(layout = 'wide')
 
+# Employing st.cache reduces memory load
+# With this enabled, Streamlit wiill make only one request to secure the data from GitHub as users make adjustments to the filters
+# We query then return a dataframe for analysis / manipulation by the user
 @st.cache
 def load_data():
     df_salary_input = pd.read_csv("https://raw.githubusercontent.com/salary-exploration-fishbowl/total-comp-app/main/salary_cleaned.csv")
     return df_salary_input
 
+# This is the app's main function 
+# It builds the site itself, as well as takes user inputs to manipulate the three target plots
 def main(): 
     df_salary_input = load_data()
 
     st.header("Total Compensation: Aggregate Analysis from Fishbowl Survey")
     st.markdown('''##### Please DM the author of the original post linking to this website for feature requests or troubleshooting.  
     
-This website reports total compensation based on level, global business, sector, gender, member firm, educational attainment, and total years of experience. The data reported below were sourced from the total compensation survey posted to a *certain* Bowl on Fishbowl.   The raw data can be accessed [here](https://docs.google.com/spreadsheets/d/1HfsaGWobDNaqua6wlQfqB0SOQYrJA5s0xMz7eZDSIrE/edit#gid=1369497600). The data presented in the charts below report the distribution of salary, AIP, and % AIP based on user inputs. Practitioners can explore the data using the filters in the panel. Additionally, summary statistics are presented in the Data Table below. ''')
+This website reports total compensation based on level, global business, sector, gender, member firm, educational attainment, and total years of experience. The data reported below were sourced from the total compensation survey posted to a *certain* Bowl on Fishbowl.   The raw data can be accessed [here](https://docs.google.com/spreadsheets/d/1HfsaGWobDNaqua6wlQfqB0SOQYrJA5s0xMz7eZDSIrE/edit#gid=1369497600). The data presented in the charts below report the distribution of salary, AIP, and % AIP based on user inputs. Practitioners can explore the data using the filters in the panel. Additionally, summary statistics are presented in the Data Table below. Finally, source code for this site can be accesssed [here](https://github.com/salary-exploration-fishbowl/total-comp-app/edit/main/app.py). ''')
 
+    # Instantiate three columns to house the three plots 
     column_one, column_two, column_three = st.columns(3)
 
+    # A container autofits the plots to the window 
     container = st.sidebar.container()
     container.title('About')
     container.info('This website is meant for educational purposes only, as the Bowl has been filled with total compensation questions recently.')
     st.subheader('Data Table')
 
+    # This variable, if selected, adds an additional user field for manipulation/exploration/analysis
     select_some_years = container.checkbox("Would you like to select a YOE range for the plots?")
 
+    # Extract a list of values for each filter
     level = list(df_salary_input.LEVEL.sort_values().unique())
     sector = list(df_salary_input.SECTOR.sort_values().unique())
     business = list(df_salary_input.GLOBAL_BUSINESS.sort_values().unique())
@@ -38,6 +49,7 @@ This website reports total compensation based on level, global business, sector,
     education = list(df_salary_input.EDUCATION.sort_values().unique())
     source = list(df_salary_input.HIRE_SOURCE.sort_values().unique())
 
+    # To plot all data, we insert a value of All into our lists 
     level.insert(0, 'All')
     sector.insert(0, 'All')
     business.insert(0, 'All')
@@ -45,13 +57,16 @@ This website reports total compensation based on level, global business, sector,
     gender.insert(0, 'All')
     education.insert(0, 'All')
     source.insert(0, 'All')
-
+    
+    # This section creates the sidebar for users to make selections
     st.sidebar.subheader("Data Elements for Analysis")
     select_level = st.sidebar.selectbox('Level:', level)
+    
+    # In the following section, users make selections and the plots auto-update based on those inputs 
     if select_level == 'All': 
         df_salary_input = df_salary_input
     else: 
-        df_salary_input = df_salary_input.loc[df_salary_input.LEVEL.apply(lambda x: x in select_level)]
+        df_salary_input = df_salary_input.loc[df_salary_input.LEVEL.apply(lambda x: x in select_level)] # for example, this limits the analysis to user's input in re LEVEL
 
     select_sector = st.sidebar.selectbox('Sector', sector)
     if select_sector == 'All': 
@@ -89,7 +104,7 @@ This website reports total compensation based on level, global business, sector,
     else: 
         df_salary_input = df_salary_input.loc[df_salary_input.HIRE_SOURCE.apply(lambda x: x in select_source)]
 
-    if select_some_years:
+    if select_some_years: # If some years is chosen, then, the output is further narrowed to the range of experience 
         start_yoe, end_yoe = container.select_slider('Select range of YOE:', options = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35], value = [0, 35])
         start_yoe = int(start_yoe)
         end_yoe = int(end_yoe)
@@ -105,12 +120,12 @@ This website reports total compensation based on level, global business, sector,
             column_two.plotly_chart(aip_distribution, use_container_width = True)
             column_three.plotly_chart(aip_percent_distribution, use_container_width = True)
             
-            st.table(df_salary_input.describe())
+            st.table(df_salary_input.describe()) # This plots a dataframe with typical stat exploration values (STD, min, max, count, etc.)
 
         except: 
-            st.markdown('''### You caught an error!''')
+            st.markdown('''### You caught an error!''') # Return a markdown error notice, rather than the specific error
 
-    else: 
+    else: # If select_some_years is not chosen, then, the plot is created based on user selections to the variables above
         try: 
             salary_distribution = px.histogram(df_salary_input, x = 'SALARY').update_yaxes(visible = False)
             aip_distribution = px.histogram(df_salary_input, x = 'AIP').update_yaxes(visible = False)
@@ -120,10 +135,10 @@ This website reports total compensation based on level, global business, sector,
             column_two.plotly_chart(aip_distribution, use_container_width = True)
             column_three.plotly_chart(aip_percent_distribution, use_container_width = True)
             
-            st.table(df_salary_input.describe())
+            st.table(df_salary_input.describe()) # This plots a dataframe with typical stat exploration values (STD, min, max, count, etc.)
 
         except: 
-            st.markdown('''### You caught an error!''')
+            st.markdown('''### You caught an error!''') # Return a markdown error notice, rather than the specific error
 
 if __name__ == '__main__':
     main()
