@@ -1,6 +1,6 @@
 # About the Project
 
-This is a lightweight streamlit app for understanding total compensation at Deloitte: distributions of salary, AIP, and % AIP. It is build off data sourced from the Deloitte Bowl on Fishbowl (2021 Total Compensation Survey), data for which can be accessed [here](https://docs.google.com/spreadsheets/d/1HfsaGWobDNaqua6wlQfqB0SOQYrJA5s0xMz7eZDSIrE/edit#gid=1369497600). 
+This is a lightweight streamlit app for understanding total compensation at Deloitte: distributions of salary, AIP, and % AIP. It is built off data sourced from the Deloitte Bowl on Fishbowl (2021 Total Compensation Survey), data for which can be accessed [here](https://docs.google.com/spreadsheets/d/1HfsaGWobDNaqua6wlQfqB0SOQYrJA5s0xMz7eZDSIrE/edit#gid=1369497600). 
 
 ## Using the Website
 Users can explore distributions of target metrics using filters in the panel (level, sector, global business, member firm, gender, education, hire source, and years of experience). If a selection does not return valid data, the charts will "break." An update for this outcome is in progress. 
