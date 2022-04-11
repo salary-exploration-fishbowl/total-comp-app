@@ -11,7 +11,7 @@ import plotly.express as px
 st.set_page_config(layout = 'wide')
 
 # Employing st.cache reduces memory load
-# With this enabled, Streamlit wiill make only one request to secure the data from GitHub as users make adjustments to the filters
+# With this enabled, Streamlit will make only one request to secure the data from GitHub as users make adjustments to the filters
 # We query then return a dataframe for analysis / manipulation by the user
 @st.cache
 def load_data():
@@ -104,7 +104,7 @@ This website reports total compensation based on level, global business, sector,
     else: 
         df_salary_input = df_salary_input.loc[df_salary_input.HIRE_SOURCE.apply(lambda x: x in select_source)]
 
-    if select_some_years: # If some years is chosen, then, the output is further narrowed to the range of experience 
+    if select_some_years: # If select_some_years is chosen, then, the output is further narrowed to the range of experience 
         start_yoe, end_yoe = container.select_slider('Select range of YOE:', options = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35], value = [0, 35])
         start_yoe = int(start_yoe)
         end_yoe = int(end_yoe)
@@ -125,7 +125,7 @@ This website reports total compensation based on level, global business, sector,
         except: 
             st.markdown('''### You caught an error!''') # Return a markdown error notice, rather than the specific error
 
-    else: # If select_some_years is not chosen, then, the plot is created based on user selections to the variables above
+    else: # If select_some_years is not chosen, then, the plots are created based on user selections to the variables above
         try: 
             salary_distribution = px.histogram(df_salary_input, x = 'SALARY').update_yaxes(visible = False)
             aip_distribution = px.histogram(df_salary_input, x = 'AIP').update_yaxes(visible = False)
